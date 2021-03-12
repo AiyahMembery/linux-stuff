@@ -1,0 +1,1149 @@
+[Info: 2021-03-12 05:25:36.090747271: NetQueue.cpp(157)] NetQueue: Setting up.
+[Info: 2021-03-12 05:25:36.090862334: NetQueue.cpp(575)] NetQueue: worker thread started.
+[Info: 2021-03-12 05:25:36.090934776: mainLinux.cpp(250)] Running launcher bootstrap (version 915)
+[Debug: 2021-03-12 05:25:36.091079650: PlatformLinux.cpp(44)] HOME dir (getpwuid): /home/aiyah
+[Debug: 2021-03-12 05:25:36.091088690: PlatformLinux.cpp(49)] HOME dir (env): /home/aiyah
+[Error: 2021-03-12 05:25:36.092065967: localization.cpp(110)] No translation found for "Unable to download <game>. Please try again later."
+[Error: 2021-03-12 05:25:36.092075807: localization.cpp(110)] No translation found for "Unable to download the <game> Native Launcher."
+[Error: 2021-03-12 05:25:36.092081017: localization.cpp(110)] No translation found for "Unable to update the <game> Game Launcher."
+[Error: 2021-03-12 05:25:36.092086077: localization.cpp(110)] No translation found for "Unable to download the <game> Runtime Environment."
+[Error: 2021-03-12 05:25:36.092091397: localization.cpp(110)] No translation found for "Unable to update the <game> Game Launcher."
+[Error: 2021-03-12 05:25:36.092096398: localization.cpp(110)] No translation found for "Unable to update the <game> Runtime Environment."
+[Error: 2021-03-12 05:25:36.092101348: localization.cpp(110)] No translation found for "Unable to update the <game> Native Launcher."
+[Error: 2021-03-12 05:25:36.092106288: localization.cpp(110)] No translation found for "Unable to relaunch the Minecraft bootstrap."
+[Error: 2021-03-12 05:25:36.092111828: localization.cpp(110)] No translation found for "Unable to start the <game> Runtime Environment. This is most likely caused by a corruption. Please try to reinstall <game>."
+[Error: 2021-03-12 05:25:36.092117418: localization.cpp(110)] No translation found for "Unable to start <game>, if you are running from a dmg, please drag to Applications and try again."
+[Error: 2021-03-12 05:25:36.092124748: localization.cpp(110)] No translation found for "Unable to initialize the network library."
+[Error: 2021-03-12 05:25:36.092129438: localization.cpp(110)] No translation found for "<game> Launcher"
+[Info: 2021-03-12 05:25:36.092135928: Common.cpp(32)] Native Launcher Version: 915
+[Info: 2021-03-12 05:25:36.092147409: Common.cpp(33)] Operating System: Linux
+[Info: 2021-03-12 05:25:36.092157389: Common.cpp(34)] Application Data directory: //.../.minecraft
+[Info: 2021-03-12 05:25:36.092167649: Common.cpp(35)] Executable Path: /.../minecraft-launcher
+[Info: 2021-03-12 05:25:36.092176930: Common.cpp(36)] App Directory dir: //.../launcher
+[Info: 2021-03-12 05:25:36.092186020: Common.cpp(37)] Game data directory: //.../.minecraft
+[Info: 2021-03-12 05:25:36.092195220: Common.cpp(38)] Launcher dir: //.../launcher
+[Info: 2021-03-12 05:25:36.092204870: Common.cpp(39)] Java dir: //.../jre-x64
+[Info: 2021-03-12 05:25:36.092214231: Common.cpp(40)] TmpDir dir: //.../MinecraftLauncher.1000
+[Info: 2021-03-12 05:25:36.092223281: Common.cpp(41)] x64: true
+[Info: 2021-03-12 05:25:36.092404586: mainLinux.cpp(308)] relaunchedExe: /home/aiyah/.minecraft/launcher/minecraft-launcher selfExe: /home/aiyah/.minecraft/launcher/minecraft-launcher
+[Debug: 2021-03-12 05:25:36.092451307: SentryAPI.cpp(314)] The string '/home/aiyah/.minecraft' was added to the logging blacklist
+[Debug: 2021-03-12 05:25:36.092462107: SentryAPI.cpp(314)] The string '///home/aiyah/.minecraft' was added to the logging blacklist
+[Debug: 2021-03-12 05:25:36.092471348: SentryAPI.cpp(314)] The string '/home/aiyah' was added to the logging blacklist
+[Debug: 2021-03-12 05:25:36.092479798: SentryAPI.cpp(314)] The string '///home/aiyah' was added to the logging blacklist
+[Debug: 2021-03-12 05:25:36.092491648: SentryAPI.cpp(314)] The string '/home/aiyah/.minecraft/runtime' was added to the logging blacklist
+[Debug: 2021-03-12 05:25:36.092500508: SentryAPI.cpp(314)] The string '///home/aiyah/.minecraft/runtime' was added to the logging blacklist
+[Debug: 2021-03-12 05:25:36.092509559: SentryAPI.cpp(314)] The string '/tmp' was added to the logging blacklist
+[Debug: 2021-03-12 05:25:36.092520479: SentryAPI.cpp(314)] The string '///tmp' was added to the logging blacklist
+[Info: 2021-03-12 05:25:36.092528069: Common.cpp(32)] Native Launcher Version: 915
+[Info: 2021-03-12 05:25:36.092542720: Common.cpp(33)] Operating System: Linux
+[Info: 2021-03-12 05:25:36.092556960: Common.cpp(34)] Application Data directory: ...
+[Info: 2021-03-12 05:25:36.092572251: Common.cpp(35)] Executable Path: /.../minecraft-launcher
+[Info: 2021-03-12 05:25:36.092587831: Common.cpp(36)] App Directory dir: .../launcher
+[Info: 2021-03-12 05:25:36.092605521: Common.cpp(37)] Game data directory: ...
+[Info: 2021-03-12 05:25:36.092620632: Common.cpp(38)] Launcher dir: .../launcher
+[Info: 2021-03-12 05:25:36.092635632: Common.cpp(39)] Java dir: .../runtime/jre-x64
+[Info: 2021-03-12 05:25:36.092650833: Common.cpp(40)] TmpDir dir: .../MinecraftLauncher.1000
+[Info: 2021-03-12 05:25:36.092666093: Common.cpp(41)] x64: true
+[Info: 2021-03-12 05:25:36.097007460: NetQueue.cpp(157)] NetQueue: Setting up.
+[Info: 2021-03-12 05:25:36.097096693: NetQueue.cpp(575)] NetQueue: worker thread started.
+[Info: 2021-03-12 05:25:36.097103263: LauncherConfiguration.cpp(292)] Using update preferences at path: .../launcher_profiles.json
+[Warning: 2021-03-12 05:25:36.097239327: LauncherConfiguration.cpp(113)] Failed to get clientToken from configuration, launcher updater will fall back to using stable versions instead of controlled experiment versions.
+[Info: 2021-03-12 05:25:36.097267597: LauncherConfiguration.cpp(295)] Failed to read update preferences from .../launcher_profiles.json
+[Info: 2021-03-12 05:25:36.097287438: LauncherConfiguration.cpp(306)] Using update preferences at path: .../launcher_settings.json
+[Info: 2021-03-12 05:25:36.097687049: NetQueue.cpp(585)] NetQueue: Starting net action https://launchermeta.mojang.com/v1/products/launcher/6f083b80d5e6fabbc4236f81d0d8f8a350c665a9/linux.json
+[Info: 2021-03-12 05:25:46.216131134: NetQueue.cpp(428)] NetQueue: Primary ip: 65.8.37.19, Host: launchermeta.mojang.com
+[Info: 2021-03-12 05:25:46.216186926: NetQueue.cpp(504)] NetQueue: Action finished: https://launchermeta.mojang.com/v1/products/launcher/6f083b80d5e6fabbc4236f81d0d8f8a350c665a9/linux.json
+[Info: 2021-03-12 05:25:46.216199866: NetQueue.cpp(532)] NetQueue: Action finalized: https://launchermeta.mojang.com/v1/products/launcher/6f083b80d5e6fabbc4236f81d0d8f8a350c665a9/linux.json
+[Info: 2021-03-12 05:25:46.216498384: LauncherConfiguration.cpp(198)] Deciding on update with strategy 2 and clientID 1426156163
+[Info: 2021-03-12 05:25:46.216550086: LauncherConfiguration.cpp(215)] Version of launcher-bootstrap is current, no action is necessary.
+[Info: 2021-03-12 05:25:46.216566336: LauncherConfiguration.cpp(248)] Bootstrap is current
+[Info: 2021-03-12 05:25:46.216589077: LauncherConfiguration.cpp(198)] Deciding on update with strategy 2 and clientID 1426156163
+[Info: 2021-03-12 05:25:46.216606127: LauncherConfiguration.cpp(215)] Version of launcher-core-v2 is current, no action is necessary.
+[Info: 2021-03-12 05:25:46.216623237: LauncherConfiguration.cpp(248)] Bootstrap is current
+[Info: 2021-03-12 05:25:46.216649278: NetQueue.cpp(183)] NetQueue: Initiating shutdown.
+[Info: 2021-03-12 05:25:46.216660749: NetQueue.cpp(197)] NetQueue: Waiting for worker thread to finish...
+[Info: 2021-03-12 05:25:46.216679669: NetQueue.cpp(689)] NetQueue: Worker thread shutting down.
+[Info: 2021-03-12 05:25:46.217255825: NetQueue.cpp(200)] NetQueue: Done.
+[Info: 2021-03-12 05:25:46.217290256: StartLibrary.cpp(63)] Starting .../launcher/liblauncher.so
+[Info: 2021-03-12 05:25:46.228009706: StartLibrary.cpp(75)] Running launcher!
+[Info: 2021-03-12 05:25:46.228060957: StartLibrary.cpp(77)] Logging is open, passing it to Launcher Core.
+[Info: 2021-03-12 05:25:46.228250573: LauncherMain.cpp(92)] Initiated models
+[Info: 2021-03-12 05:25:46.229119626: LauncherMain.cpp(247)] Initiated app arguments
+[Info: 2021-03-12 05:25:46.229155127: LauncherMain.cpp(280)] Initiated directories
+[Info: 2021-03-12 05:25:46.229172747: LauncherMain.cpp(298)] Initialized network
+[Info: 2021-03-12 05:25:46.229190008: NetQueue.cpp(157)] NetQueue: Setting up.
+[Info: 2021-03-12 05:25:46.229287380: LauncherMain.cpp(312)] Initialized Sentry
+[Info: 2021-03-12 05:25:46.229272560: NetQueue.cpp(575)] NetQueue: worker thread started.
+[Info: 2021-03-12 05:25:46.229300741: LauncherMain.cpp(318)] workDir: .../.minecraft
+[Info: 2021-03-12 05:25:46.229328541: LauncherMain.cpp(326)] appDir: .../.minecraft/launcher
+[Info: 2021-03-12 05:25:46.229388253: LauncherMain.cpp(352)] Launcher core version: 2.2.2313 (6cd58158ae776414beb2bcb966139b5af724e5ef)
+[Info: 2021-03-12 05:25:46.229399703: LauncherMain.cpp(353)] Main process: true
+[Info: 2021-03-12 05:25:46.229411604: NetQueue.cpp(157)] NetQueue: Setting up.
+[Info: 2021-03-12 05:25:46.229449995: NetQueue.cpp(575)] NetQueue: worker thread started.
+[Info: 2021-03-12 05:25:46.229461485: LauncherController.cpp(414)] Constructing launcher controller with workDir: .../.minecraft, isActive: 1
+[Info: 2021-03-12 05:25:46.229585318: ProfilesFileData.cpp(202)] Reading preferences on path: /home/aiyah/.minecraft/launcher_profiles.json
+[Info: 2021-03-12 05:25:46.229623730: ProfilesFileData.cpp(233)] Deserializing modern profile
+[Info: 2021-03-12 05:25:46.229749793: GameVersionManager.cpp(209)] Reading local cache of the Mojang versions manifest...
+[Info: 2021-03-12 05:25:46.233519685: GameVersionManager.cpp(249)] Looking for installed versions in .../.minecraft/versions
+[Info: 2021-03-12 05:25:46.233561716: GameVersionManager.cpp(290)] Parsing version 1.16.5
+[Info: 2021-03-12 05:25:46.234605154: GameVersionManager.cpp(290)] Parsing version 21w08b
+[Info: 2021-03-12 05:25:46.235641393: GameVersionManager.cpp(290)] Parsing version 1.16.5-OptiFine_HD_U_G7
+[Info: 2021-03-12 05:25:46.235697484: GameVersionManager.cpp(290)] Parsing version 21w10a
+[Info: 2021-03-12 05:25:46.237060201: NetQueue.cpp(585)] NetQueue: Starting net action https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2021-03-12T05:25:46Z
+[Info: 2021-03-12 05:25:46.426236467: NetQueue.cpp(428)] NetQueue: Primary ip: 65.8.37.19, Host: launchermeta.mojang.com
+[Info: 2021-03-12 05:25:46.426289508: NetQueue.cpp(504)] NetQueue: Action finished: https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2021-03-12T05:25:46Z
+[Info: 2021-03-12 05:25:46.426296629: NetQueue.cpp(532)] NetQueue: Action finalized: https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2021-03-12T05:25:46Z
+[Info: 2021-03-12 05:25:46.426363160: GameVersionManager.cpp(367)] Got available versions manifest from https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2021-03-12T05:25:46Z
+[Info: 2021-03-12 05:25:46.431233103: NetQueue.cpp(157)] NetQueue: Setting up.
+[Info: 2021-03-12 05:25:46.431314085: NetQueue.cpp(575)] NetQueue: worker thread started.
+[Info: 2021-03-12 05:25:46.431382167: XalStorage.cpp(241)] Parsing content from MSA File
+[Info: 2021-03-12 05:25:46.431428498: XalContext.cpp(416)] ClockSkew is -2116436 (0 seconds)
+[Info: 2021-03-12 05:25:46.431470309: Xal.lib(0)] XAL: Initializing Xal 2019.10.20190918.001, generic platform
+[Info: 2021-03-12 05:25:46.431480469: Xal.lib(0)] XAL: Init args:
+[Info: 2021-03-12 05:25:46.431489320: Xal.lib(0)] XAL:     sandbox: 
+[Info: 2021-03-12 05:25:46.431497430: Xal.lib(0)] XAL:     disableDiagnosticTelemetry: false
+[Info: 2021-03-12 05:25:46.431505640: Xal.lib(0)] XAL:     correlationVector: (null)
+[Info: 2021-03-12 05:25:46.431513520: Xal.lib(0)] XAL:     flags: 81000000
+[Info: 2021-03-12 05:25:46.431521200: Xal.lib(0)] XAL:     maxSignedInUsers: 1
+[Info: 2021-03-12 05:25:46.431528891: Xal.lib(0)] XAL:     thirdPartyConsent (0)
+[Info: 2021-03-12 05:25:46.431536511: Xal.lib(0)] XAL:     redirectUri: 
+[Info: 2021-03-12 05:25:46.431544201: Xal.lib(0)] XAL:     useRemoteAuth: false
+[Info: 2021-03-12 05:25:46.431551681: Xal.lib(0)] XAL: Device info:
+[Info: 2021-03-12 05:25:46.431559221: Xal.lib(0)] XAL:     deviceType: Win32
+[Info: 2021-03-12 05:25:46.431566902: Xal.lib(0)] XAL:     osVersion: 6.1.7601
+[Info: 2021-03-12 05:25:46.431575702: Xal.lib(0)] XAL: Telemetry info:
+[Info: 2021-03-12 05:25:46.431586562: Xal.lib(0)] XAL:     appId: Minecraft Launcher
+[Info: 2021-03-12 05:25:46.431594252: Xal.lib(0)] XAL:     appVer: 2.2.2313
+[Info: 2021-03-12 05:25:46.431601943: Xal.lib(0)] XAL:     osName: Windows
+[Info: 2021-03-12 05:25:46.431609513: Xal.lib(0)] XAL:     osVersion: 6.1.7601
+[Info: 2021-03-12 05:25:46.431617063: Xal.lib(0)] XAL:     osLocale: en-US
+[Info: 2021-03-12 05:25:46.431624603: Xal.lib(0)] XAL:     deviceClass: Windows.Desktop
+[Info: 2021-03-12 05:25:46.431667794: Xal.lib(0)] XAL: Diagnostic telemetry disabled: false
+[Info: 2021-03-12 05:25:46.431747437: Xal.lib(0)] XAL_TELEMETRY: AppActivation Version="2019.10.20190918.001"
+[Info: 2021-03-12 05:25:46.431823569: ProductManager.cpp(212)] Product library dir set to /home/aiyah/.minecraft/products
+[Info: 2021-03-12 05:25:46.431859990: AccountData.cpp(309)] Parsing content from file: .../.minecraft/launcher_accounts.json
+[Info: 2021-03-12 05:25:46.431919741: SkinManager.cpp(251)] Failed to read skins file: .../.minecraft/launcher_skins.json ErrNo such file or directory
+[Info: 2021-03-12 05:25:46.432081996: CefUI.cpp(123)] Web cache is compatible with current CEF version.
+[Info: 2021-03-12 05:25:46.432093376: CefUI.cpp(145)] Web cache path: /home/aiyah/.minecraft/webcache2
+[Info: 2021-03-12 05:25:46.465872820: LauncherAppBrowser.cpp(57)] Work dir is .../.minecraft
+[Info: 2021-03-12 05:25:46.465994133: main_context.cpp(137)] CEF initialized successfully.
+[Info: 2021-03-12 05:25:46.466008984: main_context.cpp(139)] CEF version: 86.0.23+ga2c2edf+chromium-86.0.4240.193
+[Info: 2021-03-12 05:25:46.466457616: NetQueue.cpp(585)] NetQueue: Starting net action https://authserver.mojang.com/refresh
+[Info: 2021-03-12 05:25:46.626099615: orca_screen_reader.cpp(90)] Orca screen reader: version=3.38.0
+[Info: 2021-03-12 05:25:46.626343581: orca_screen_reader.cpp(96)] Orca screen reader: supported=1
+[Info: 2021-03-12 05:25:46.626356992: orca_screen_reader.cpp(110)] Create temporary startup dialog to fix focus issues with screen reader.
+[Info: 2021-03-12 05:25:46.701731560: orca_screen_reader.cpp(63)] temporaryDialogGrabFocus: destroy widget.
+[Info: 2021-03-12 05:25:46.713981932: root_window_gtk.cpp(379)] OnBrowserCreated: id=1
+[Info: 2021-03-12 05:25:46.716310084: browser_window_std_gtk.cpp(113)] my_gtk_realize: 0x28edaa0
+[Info: 2021-03-12 05:25:46.726898541: root_window_gtk.cpp(325)] Window icon fixed successfully (AB#474691).
+[Info: 2021-03-12 05:25:46.726936002: root_window_manager.cpp(81)] Main window has been opened: 0x7f07f400dc00
+[Info: 2021-03-12 05:25:46.454711638: LauncherMain.cpp(92)] Initiated models
+[Info: 2021-03-12 05:25:46.454901743: LauncherController.cpp(414)] Constructing launcher controller with workDir: //.../.minecraft, isActive: 0
+[Info: 2021-03-12 05:25:46.739391490: LauncherAppRenderer.cpp(159)] Javascript bridge extended in OnWebKitInitialized.
+[Info: 2021-03-12 05:25:46.784191601: LauncherAppRenderer.cpp(301)] OnContextCreated: main frame. Url=mojang://launcher/index.html browser id=1
+[Info: 2021-03-12 05:25:46.784225732: LauncherAppRenderer.cpp(306)] OnContextCreated: Create JS bindings in main browser.
+[Info: 2021-03-12 05:25:46.828869300: LauncherAppRenderer.cpp(486)] Javascript bridge extended in OnContextCreated.
+[Info: 2021-03-12 05:25:46.848843841: NetQueue.cpp(428)] NetQueue: Primary ip: 65.8.31.69, Host: authserver.mojang.com
+[Info: 2021-03-12 05:25:46.848878492: NetQueue.cpp(504)] NetQueue: Action finished: https://authserver.mojang.com/refresh
+[Info: 2021-03-12 05:25:46.848885512: NetQueue.cpp(532)] NetQueue: Action finalized: https://authserver.mojang.com/refresh
+[Info: 2021-03-12 05:25:46.849300303: NetQueue.cpp(585)] NetQueue: Starting net action https://api.minecraftservices.com/rollout/v1/msamigration
+[Info: 2021-03-12 05:25:46.974620063: ControllerInterface.cpp(106)] Running method getStore
+[Info: 2021-03-12 05:25:46.974832019: ControllerInterface.cpp(106)] Running method getStore
+[Info: 2021-03-12 05:25:46.991288384: ControllerInterface.cpp(134)] Running async method checkForUpdates
+[Info: 2021-03-12 05:25:46.991712796: client_handler.cpp(231)] Handling PostTelemetryEvent message
+[Info: 2021-03-12 05:25:46.992314682: ControllerInterface.cpp(106)] Running method getAccountData
+[Info: 2021-03-12 05:25:47.023038342: NetQueue.cpp(585)] NetQueue: Starting net action https://launchermeta.mojang.com/v1/products/launcher/6f083b80d5e6fabbc4236f81d0d8f8a350c665a9/linux.json
+[Info: 2021-03-12 05:25:47.183126941: NetQueue.cpp(428)] NetQueue: Primary ip: 65.8.37.19, Host: launchermeta.mojang.com
+[Info: 2021-03-12 05:25:47.183172252: NetQueue.cpp(504)] NetQueue: Action finished: https://launchermeta.mojang.com/v1/products/launcher/6f083b80d5e6fabbc4236f81d0d8f8a350c665a9/linux.json
+[Info: 2021-03-12 05:25:47.183289115: NetQueue.cpp(532)] NetQueue: Action finalized: https://launchermeta.mojang.com/v1/products/launcher/6f083b80d5e6fabbc4236f81d0d8f8a350c665a9/linux.json
+[Info: 2021-03-12 05:25:48.181454826: NetQueue.cpp(428)] NetQueue: Primary ip: 54.84.216.66, Host: api.minecraftservices.com
+[Info: 2021-03-12 05:25:48.181493987: NetQueue.cpp(504)] NetQueue: Action finished: https://api.minecraftservices.com/rollout/v1/msamigration
+[Info: 2021-03-12 05:25:48.181501448: NetQueue.cpp(532)] NetQueue: Action finalized: https://api.minecraftservices.com/rollout/v1/msamigration
+[Info: 2021-03-12 05:25:48.181643372: UnifiedAccounts.cpp(194)] Internet state in main process: online=1
+[Info: 2021-03-12 05:25:48.181986621: NetQueue.cpp(585)] NetQueue: Starting net action https://launchercontent.mojang.com/accountMigration.json
+[Info: 2021-03-12 05:25:48.326950508: NetQueue.cpp(428)] NetQueue: Primary ip: 2620:1ec:46::19, Host: launchercontent.mojang.com
+[Info: 2021-03-12 05:25:48.326977209: NetQueue.cpp(504)] NetQueue: Action finished: https://launchercontent.mojang.com/accountMigration.json
+[Info: 2021-03-12 05:25:48.326984189: NetQueue.cpp(532)] NetQueue: Action finalized: https://launchercontent.mojang.com/accountMigration.json
+[Info: 2021-03-12 05:25:48.327018340: UnifiedAccounts.cpp(450)] Fetched account migration dates from https://launchercontent.mojang.com/accountMigration.json
+[Info: 2021-03-12 05:25:48.327072871: UnifiedAccounts.cpp(203)] Account migration dates: migrationStarts=2099-01-01T00:00:00.000Z forcedMigrationStarts=2099-01-01T00:00:00.000Z forcedMigrationEnds=2099-01-01T00:00:00.000Z
+[Info: 2021-03-12 05:25:48.327528624: ControllerInterface.cpp(106)] Running method onInternetStateChange
+[Info: 2021-03-12 05:25:48.327921794: NetQueue.cpp(585)] NetQueue: Starting net action https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2021-03-12T05:25:48Z
+[Info: 2021-03-12 05:25:48.431830463: NetQueue.cpp(428)] NetQueue: Primary ip: 65.8.37.19, Host: launchermeta.mojang.com
+[Info: 2021-03-12 05:25:48.431874544: NetQueue.cpp(504)] NetQueue: Action finished: https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2021-03-12T05:25:48Z
+[Info: 2021-03-12 05:25:48.431881934: NetQueue.cpp(532)] NetQueue: Action finalized: https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2021-03-12T05:25:48Z
+[Info: 2021-03-12 05:25:48.431936556: GameVersionManager.cpp(367)] Got available versions manifest from https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2021-03-12T05:25:48Z
+[Info: 2021-03-12 05:25:48.436208501: client_handler.cpp(231)] Handling PostTelemetryEvent message
+[Info: 2021-03-12 05:25:48.963173663: ControllerInterface.cpp(106)] Running method setStore
+[Info: 2021-03-12 05:25:50.042305157: ControllerInterface.cpp(106)] Running method downloadConfiguration
+[Info: 2021-03-12 05:25:50.042394739: GameVersionManager.cpp(697)] resolveVersionID: Resolved custom:1.16.5-OptiFine_HD_U_G7 to 1.16.5-OptiFine_HD_U_G7
+[Info: 2021-03-12 05:25:50.042413850: GameVersionManager.cpp(448)] Request version details for: 1.16.5-OptiFine_HD_U_G7
+[Info: 2021-03-12 05:25:50.042443971: GameVersionManager.cpp(448)] Request version details for: 1.16.5
+[Info: 2021-03-12 05:25:50.045393570: GameVersionManager.cpp(697)] resolveVersionID: Resolved custom:1.16.5-OptiFine_HD_U_G7 to 1.16.5-OptiFine_HD_U_G7
+[Info: 2021-03-12 05:25:50.045895384: GameController.cpp(348)] Creating ClientStarter with id 1
+[Info: 2021-03-12 05:25:50.045914574: NetQueue.cpp(157)] NetQueue: Setting up.
+[Info: 2021-03-12 05:25:50.046005557: NetQueue.cpp(575)] NetQueue: worker thread started.
+[Info: 2021-03-12 05:25:50.046190592: GameCallbacks.cpp(162)] Launcher/launcher (main) Info Preparing to launch minecraft client for 1.16.5-OptiFine_HD_U_G7
+[Info: 2021-03-12 05:25:50.047010254: GameCallbacks.cpp(162)] Launcher/launcher (main) Debug Prepared asset index
+[Info: 2021-03-12 05:25:50.064407753: NetQueue.cpp(585)] NetQueue: Starting net action https://launchermeta.mojang.com/v1/products/java-runtime/2ec0cc96c44e5a76b9c8b7c39df7210883d12871/all.json
+[Info: 2021-03-12 05:25:50.156179900: ControllerInterface.cpp(106)] Running method updateConfiguration
+[Info: 2021-03-12 05:25:50.177227488: NetQueue.cpp(428)] NetQueue: Primary ip: 65.8.37.19, Host: launchermeta.mojang.com
+[Info: 2021-03-12 05:25:50.177266819: NetQueue.cpp(504)] NetQueue: Action finished: https://launchermeta.mojang.com/v1/products/java-runtime/2ec0cc96c44e5a76b9c8b7c39df7210883d12871/all.json
+[Info: 2021-03-12 05:25:50.177274099: NetQueue.cpp(532)] NetQueue: Action finalized: https://launchermeta.mojang.com/v1/products/java-runtime/2ec0cc96c44e5a76b9c8b7c39df7210883d12871/all.json
+[Info: 2021-03-12 05:25:50.177726881: NetQueue.cpp(585)] NetQueue: Starting net action https://launchermeta.mojang.com/v1/packages/a1c15cc788f8893fba7e988eb27404772f699a84/manifest.json
+[Info: 2021-03-12 05:25:50.269804036: NetQueue.cpp(428)] NetQueue: Primary ip: 65.8.37.19, Host: launchermeta.mojang.com
+[Info: 2021-03-12 05:25:50.269833077: NetQueue.cpp(504)] NetQueue: Action finished: https://launchermeta.mojang.com/v1/packages/a1c15cc788f8893fba7e988eb27404772f699a84/manifest.json
+[Info: 2021-03-12 05:25:50.269840997: NetQueue.cpp(532)] NetQueue: Action finalized: https://launchermeta.mojang.com/v1/packages/a1c15cc788f8893fba7e988eb27404772f699a84/manifest.json
+[Info: 2021-03-12 05:25:50.274803582: PistonInstaller.cpp(259)] Inspecting files in .../.minecraft/runtime/jre-legacy/linux/jre-legacy
+[Info: 2021-03-12 05:25:50.275505611: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/Welcome.html, internal: Welcome.html
+[Info: 2021-03-12 05:25:50.275531122: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/plugin/desktop/sun_java.png, internal: plugin/desktop/sun_java.png
+[Info: 2021-03-12 05:25:50.275539832: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/plugin/desktop/sun_java.desktop, internal: plugin/desktop/sun_java.desktop
+[Info: 2021-03-12 05:25:50.275569203: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/THIRDPARTYLICENSEREADME.txt, internal: THIRDPARTYLICENSEREADME.txt
+[Info: 2021-03-12 05:25:50.275562372: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/README, internal: README
+[Info: 2021-03-12 05:25:50.275674285: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/HighContrast/16x16/apps/sun-javaws.png, internal: lib/desktop/icons/HighContrast/16x16/apps/sun-javaws.png
+[Info: 2021-03-12 05:25:50.275697016: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/HighContrast/16x16/apps/sun-jcontrol.png, internal: lib/desktop/icons/HighContrast/16x16/apps/sun-jcontrol.png
+[Info: 2021-03-12 05:25:50.275687946: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/HighContrast/16x16/apps/sun-java.png, internal: lib/desktop/icons/HighContrast/16x16/apps/sun-java.png
+[Info: 2021-03-12 05:25:50.275724007: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/HighContrast/16x16/mimetypes/gnome-mime-application-x-java-archive.png, internal: lib/desktop/icons/HighContrast/16x16/mimetypes/gnome-mime-application-x-java-archive.png
+[Info: 2021-03-12 05:25:50.275734217: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/HighContrast/16x16/mimetypes/gnome-mime-text-x-java.png, internal: lib/desktop/icons/HighContrast/16x16/mimetypes/gnome-mime-text-x-java.png
+[Info: 2021-03-12 05:25:50.275747988: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/HighContrast/16x16/mimetypes/gnome-mime-application-x-java-jnlp-file.png, internal: lib/desktop/icons/HighContrast/16x16/mimetypes/gnome-mime-application-x-java-jnlp-file.png
+[Info: 2021-03-12 05:25:50.275784789: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/HighContrast/48x48/apps/sun-javaws.png, internal: lib/desktop/icons/HighContrast/48x48/apps/sun-javaws.png
+[Info: 2021-03-12 05:25:50.275799969: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/HighContrast/48x48/apps/sun-java.png, internal: lib/desktop/icons/HighContrast/48x48/apps/sun-java.png
+[Info: 2021-03-12 05:25:50.275813129: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/HighContrast/48x48/apps/sun-jcontrol.png, internal: lib/desktop/icons/HighContrast/48x48/apps/sun-jcontrol.png
+[Info: 2021-03-12 05:25:50.275841870: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/HighContrast/48x48/mimetypes/gnome-mime-application-x-java-archive.png, internal: lib/desktop/icons/HighContrast/48x48/mimetypes/gnome-mime-application-x-java-archive.png
+[Info: 2021-03-12 05:25:50.275853490: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/HighContrast/48x48/mimetypes/gnome-mime-text-x-java.png, internal: lib/desktop/icons/HighContrast/48x48/mimetypes/gnome-mime-text-x-java.png
+[Info: 2021-03-12 05:25:50.275868921: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/HighContrast/48x48/mimetypes/gnome-mime-application-x-java-jnlp-file.png, internal: lib/desktop/icons/HighContrast/48x48/mimetypes/gnome-mime-application-x-java-jnlp-file.png
+[Info: 2021-03-12 05:25:50.275934703: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/HighContrastInverse/16x16/apps/sun-javaws.png, internal: lib/desktop/icons/HighContrastInverse/16x16/apps/sun-javaws.png
+[Info: 2021-03-12 05:25:50.275941253: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/HighContrastInverse/16x16/apps/sun-java.png, internal: lib/desktop/icons/HighContrastInverse/16x16/apps/sun-java.png
+[Info: 2021-03-12 05:25:50.275955913: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/HighContrastInverse/16x16/apps/sun-jcontrol.png, internal: lib/desktop/icons/HighContrastInverse/16x16/apps/sun-jcontrol.png
+[Info: 2021-03-12 05:25:50.275987404: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/HighContrastInverse/16x16/mimetypes/gnome-mime-application-x-java-archive.png, internal: lib/desktop/icons/HighContrastInverse/16x16/mimetypes/gnome-mime-application-x-java-archive.png
+[Info: 2021-03-12 05:25:50.276006875: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/HighContrastInverse/16x16/mimetypes/gnome-mime-text-x-java.png, internal: lib/desktop/icons/HighContrastInverse/16x16/mimetypes/gnome-mime-text-x-java.png
+[Info: 2021-03-12 05:25:50.276021005: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/HighContrastInverse/16x16/mimetypes/gnome-mime-application-x-java-jnlp-file.png, internal: lib/desktop/icons/HighContrastInverse/16x16/mimetypes/gnome-mime-application-x-java-jnlp-file.png
+[Info: 2021-03-12 05:25:50.276059846: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/HighContrastInverse/48x48/apps/sun-javaws.png, internal: lib/desktop/icons/HighContrastInverse/48x48/apps/sun-javaws.png
+[Info: 2021-03-12 05:25:50.276076266: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/HighContrastInverse/48x48/apps/sun-java.png, internal: lib/desktop/icons/HighContrastInverse/48x48/apps/sun-java.png
+[Info: 2021-03-12 05:25:50.276088637: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/HighContrastInverse/48x48/apps/sun-jcontrol.png, internal: lib/desktop/icons/HighContrastInverse/48x48/apps/sun-jcontrol.png
+[Info: 2021-03-12 05:25:50.276115327: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/HighContrastInverse/48x48/mimetypes/gnome-mime-application-x-java-archive.png, internal: lib/desktop/icons/HighContrastInverse/48x48/mimetypes/gnome-mime-application-x-java-archive.png
+[Info: 2021-03-12 05:25:50.276126988: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/HighContrastInverse/48x48/mimetypes/gnome-mime-text-x-java.png, internal: lib/desktop/icons/HighContrastInverse/48x48/mimetypes/gnome-mime-text-x-java.png
+[Info: 2021-03-12 05:25:50.276138228: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/HighContrastInverse/48x48/mimetypes/gnome-mime-application-x-java-jnlp-file.png, internal: lib/desktop/icons/HighContrastInverse/48x48/mimetypes/gnome-mime-application-x-java-jnlp-file.png
+[Info: 2021-03-12 05:25:50.276187749: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/LowContrast/16x16/apps/sun-javaws.png, internal: lib/desktop/icons/LowContrast/16x16/apps/sun-javaws.png
+[Info: 2021-03-12 05:25:50.276198080: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/LowContrast/16x16/apps/sun-java.png, internal: lib/desktop/icons/LowContrast/16x16/apps/sun-java.png
+[Info: 2021-03-12 05:25:50.276209040: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/LowContrast/16x16/apps/sun-jcontrol.png, internal: lib/desktop/icons/LowContrast/16x16/apps/sun-jcontrol.png
+[Info: 2021-03-12 05:25:50.276245801: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/LowContrast/16x16/mimetypes/gnome-mime-application-x-java-archive.png, internal: lib/desktop/icons/LowContrast/16x16/mimetypes/gnome-mime-application-x-java-archive.png
+[Info: 2021-03-12 05:25:50.276252541: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/LowContrast/16x16/mimetypes/gnome-mime-text-x-java.png, internal: lib/desktop/icons/LowContrast/16x16/mimetypes/gnome-mime-text-x-java.png
+[Info: 2021-03-12 05:25:50.276264251: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/LowContrast/16x16/mimetypes/gnome-mime-application-x-java-jnlp-file.png, internal: lib/desktop/icons/LowContrast/16x16/mimetypes/gnome-mime-application-x-java-jnlp-file.png
+[Info: 2021-03-12 05:25:50.276309873: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/LowContrast/48x48/apps/sun-javaws.png, internal: lib/desktop/icons/LowContrast/48x48/apps/sun-javaws.png
+[Info: 2021-03-12 05:25:50.276324943: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/LowContrast/48x48/apps/sun-java.png, internal: lib/desktop/icons/LowContrast/48x48/apps/sun-java.png
+[Info: 2021-03-12 05:25:50.276339553: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/LowContrast/48x48/apps/sun-jcontrol.png, internal: lib/desktop/icons/LowContrast/48x48/apps/sun-jcontrol.png
+[Info: 2021-03-12 05:25:50.276364174: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/LowContrast/48x48/mimetypes/gnome-mime-application-x-java-archive.png, internal: lib/desktop/icons/LowContrast/48x48/mimetypes/gnome-mime-application-x-java-archive.png
+[Info: 2021-03-12 05:25:50.276375764: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/LowContrast/48x48/mimetypes/gnome-mime-text-x-java.png, internal: lib/desktop/icons/LowContrast/48x48/mimetypes/gnome-mime-text-x-java.png
+[Info: 2021-03-12 05:25:50.276393175: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/LowContrast/48x48/mimetypes/gnome-mime-application-x-java-jnlp-file.png, internal: lib/desktop/icons/LowContrast/48x48/mimetypes/gnome-mime-application-x-java-jnlp-file.png
+[Info: 2021-03-12 05:25:50.276441696: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/hicolor/16x16/apps/sun-javaws.png, internal: lib/desktop/icons/hicolor/16x16/apps/sun-javaws.png
+[Info: 2021-03-12 05:25:50.276452956: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/hicolor/16x16/apps/sun-java.png, internal: lib/desktop/icons/hicolor/16x16/apps/sun-java.png
+[Info: 2021-03-12 05:25:50.276469427: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/hicolor/16x16/apps/sun-jcontrol.png, internal: lib/desktop/icons/hicolor/16x16/apps/sun-jcontrol.png
+[Info: 2021-03-12 05:25:50.276500968: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/hicolor/16x16/mimetypes/gnome-mime-application-x-java-archive.png, internal: lib/desktop/icons/hicolor/16x16/mimetypes/gnome-mime-application-x-java-archive.png
+[Info: 2021-03-12 05:25:50.276509228: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/hicolor/16x16/mimetypes/gnome-mime-text-x-java.png, internal: lib/desktop/icons/hicolor/16x16/mimetypes/gnome-mime-text-x-java.png
+[Info: 2021-03-12 05:25:50.276518388: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/hicolor/16x16/mimetypes/gnome-mime-application-x-java-jnlp-file.png, internal: lib/desktop/icons/hicolor/16x16/mimetypes/gnome-mime-application-x-java-jnlp-file.png
+[Info: 2021-03-12 05:25:50.276556779: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/hicolor/48x48/apps/sun-javaws.png, internal: lib/desktop/icons/hicolor/48x48/apps/sun-javaws.png
+[Info: 2021-03-12 05:25:50.276572720: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/hicolor/48x48/apps/sun-java.png, internal: lib/desktop/icons/hicolor/48x48/apps/sun-java.png
+[Info: 2021-03-12 05:25:50.276587330: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/hicolor/48x48/apps/sun-jcontrol.png, internal: lib/desktop/icons/hicolor/48x48/apps/sun-jcontrol.png
+[Info: 2021-03-12 05:25:50.276617351: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/hicolor/48x48/mimetypes/gnome-mime-application-x-java-archive.png, internal: lib/desktop/icons/hicolor/48x48/mimetypes/gnome-mime-application-x-java-archive.png
+[Info: 2021-03-12 05:25:50.276629151: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/hicolor/48x48/mimetypes/gnome-mime-text-x-java.png, internal: lib/desktop/icons/hicolor/48x48/mimetypes/gnome-mime-text-x-java.png
+[Info: 2021-03-12 05:25:50.276643202: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/icons/hicolor/48x48/mimetypes/gnome-mime-application-x-java-jnlp-file.png, internal: lib/desktop/icons/hicolor/48x48/mimetypes/gnome-mime-application-x-java-jnlp-file.png
+[Info: 2021-03-12 05:25:50.276669252: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/applications/sun-javaws.desktop, internal: lib/desktop/applications/sun-javaws.desktop
+[Info: 2021-03-12 05:25:50.276680603: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/applications/sun-java.desktop, internal: lib/desktop/applications/sun-java.desktop
+[Info: 2021-03-12 05:25:50.276689123: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/applications/sun_java.desktop, internal: lib/desktop/applications/sun_java.desktop
+[Info: 2021-03-12 05:25:50.276730594: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/mime/packages/x-java-jnlp-file.xml, internal: lib/desktop/mime/packages/x-java-jnlp-file.xml
+[Info: 2021-03-12 05:25:50.276739204: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/desktop/mime/packages/x-java-archive.xml, internal: lib/desktop/mime/packages/x-java-archive.xml
+[Info: 2021-03-12 05:25:50.276751415: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/fontconfig.RedHat.6.bfc, internal: lib/fontconfig.RedHat.6.bfc
+[Info: 2021-03-12 05:25:50.276764615: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/fontconfig.Turbo.bfc, internal: lib/fontconfig.Turbo.bfc
+[Info: 2021-03-12 05:25:50.276810856: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/locale/sv/LC_MESSAGES/sunw_java_plugin.mo, internal: lib/locale/sv/LC_MESSAGES/sunw_java_plugin.mo
+[Info: 2021-03-12 05:25:50.276846877: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/locale/zh_TW.BIG5/LC_MESSAGES/sunw_java_plugin.mo, internal: lib/locale/zh_TW.BIG5/LC_MESSAGES/sunw_java_plugin.mo
+[Info: 2021-03-12 05:25:50.276876728: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/locale/zh/LC_MESSAGES/sunw_java_plugin.mo, internal: lib/locale/zh/LC_MESSAGES/sunw_java_plugin.mo
+[Info: 2021-03-12 05:25:50.276910349: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/locale/ko/LC_MESSAGES/sunw_java_plugin.mo, internal: lib/locale/ko/LC_MESSAGES/sunw_java_plugin.mo
+[Info: 2021-03-12 05:25:50.276953870: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/locale/ja/LC_MESSAGES/sunw_java_plugin.mo, internal: lib/locale/ja/LC_MESSAGES/sunw_java_plugin.mo
+[Info: 2021-03-12 05:25:50.276984731: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/locale/pt_BR/LC_MESSAGES/sunw_java_plugin.mo, internal: lib/locale/pt_BR/LC_MESSAGES/sunw_java_plugin.mo
+[Info: 2021-03-12 05:25:50.277017492: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/locale/de/LC_MESSAGES/sunw_java_plugin.mo, internal: lib/locale/de/LC_MESSAGES/sunw_java_plugin.mo
+[Info: 2021-03-12 05:25:50.277065203: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/locale/it/LC_MESSAGES/sunw_java_plugin.mo, internal: lib/locale/it/LC_MESSAGES/sunw_java_plugin.mo
+[Info: 2021-03-12 05:25:50.277098364: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/locale/zh_TW/LC_MESSAGES/sunw_java_plugin.mo, internal: lib/locale/zh_TW/LC_MESSAGES/sunw_java_plugin.mo
+[Info: 2021-03-12 05:25:50.277131475: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/locale/zh_HK.BIG5HK/LC_MESSAGES/sunw_java_plugin.mo, internal: lib/locale/zh_HK.BIG5HK/LC_MESSAGES/sunw_java_plugin.mo
+[Info: 2021-03-12 05:25:50.277162686: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/locale/fr/LC_MESSAGES/sunw_java_plugin.mo, internal: lib/locale/fr/LC_MESSAGES/sunw_java_plugin.mo
+[Info: 2021-03-12 05:25:50.277193676: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/locale/zh.GBK/LC_MESSAGES/sunw_java_plugin.mo, internal: lib/locale/zh.GBK/LC_MESSAGES/sunw_java_plugin.mo
+[Info: 2021-03-12 05:25:50.277236548: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/locale/es/LC_MESSAGES/sunw_java_plugin.mo, internal: lib/locale/es/LC_MESSAGES/sunw_java_plugin.mo
+[Info: 2021-03-12 05:25:50.277269328: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/locale/ko.UTF-8/LC_MESSAGES/sunw_java_plugin.mo, internal: lib/locale/ko.UTF-8/LC_MESSAGES/sunw_java_plugin.mo
+[Info: 2021-03-12 05:25:50.277280499: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/classlist, internal: lib/classlist
+[Info: 2021-03-12 05:25:50.277289589: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/deploy.jar, internal: lib/deploy.jar
+[Info: 2021-03-12 05:25:50.277297199: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/jfr.jar, internal: lib/jfr.jar
+[Info: 2021-03-12 05:25:50.277320020: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/jfr/profile.jfc, internal: lib/jfr/profile.jfc
+[Info: 2021-03-12 05:25:50.277326990: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/jfr/default.jfc, internal: lib/jfr/default.jfc
+[Info: 2021-03-12 05:25:50.277335160: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/fontconfig.RedHat.5.properties.src, internal: lib/fontconfig.RedHat.5.properties.src
+[Info: 2021-03-12 05:25:50.277348181: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/jce.jar, internal: lib/jce.jar
+[Info: 2021-03-12 05:25:50.277358491: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/javafx.properties, internal: lib/javafx.properties
+[Info: 2021-03-12 05:25:50.277383681: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/jvm.hprof.txt, internal: lib/jvm.hprof.txt
+[Info: 2021-03-12 05:25:50.277406782: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/ext/cldrdata.jar, internal: lib/ext/cldrdata.jar
+[Info: 2021-03-12 05:25:50.277414192: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/ext/sunpkcs11.jar, internal: lib/ext/sunpkcs11.jar
+[Info: 2021-03-12 05:25:50.277426393: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/ext/sunjce_provider.jar, internal: lib/ext/sunjce_provider.jar
+[Info: 2021-03-12 05:25:50.277436443: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/ext/jfxrt.jar, internal: lib/ext/jfxrt.jar
+[Info: 2021-03-12 05:25:50.277452523: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/ext/sunec.jar, internal: lib/ext/sunec.jar
+[Info: 2021-03-12 05:25:50.277459664: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/ext/localedata.jar, internal: lib/ext/localedata.jar
+[Info: 2021-03-12 05:25:50.277470724: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/ext/zipfs.jar, internal: lib/ext/zipfs.jar
+[Info: 2021-03-12 05:25:50.277480344: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/ext/dnsns.jar, internal: lib/ext/dnsns.jar
+[Info: 2021-03-12 05:25:50.277494315: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/ext/nashorn.jar, internal: lib/ext/nashorn.jar
+[Info: 2021-03-12 05:25:50.277503255: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/ext/jaccess.jar, internal: lib/ext/jaccess.jar
+[Info: 2021-03-12 05:25:50.277514465: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/ext/meta-index, internal: lib/ext/meta-index
+[Info: 2021-03-12 05:25:50.277524415: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/management-agent.jar, internal: lib/management-agent.jar
+[Info: 2021-03-12 05:25:50.277535046: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/charsets.jar, internal: lib/charsets.jar
+[Info: 2021-03-12 05:25:50.277542696: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/hijrah-config-umalqura.properties, internal: lib/hijrah-config-umalqura.properties
+[Info: 2021-03-12 05:25:50.277552276: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/calendars.properties, internal: lib/calendars.properties
+[Info: 2021-03-12 05:25:50.277564536: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/jfxswt.jar, internal: lib/jfxswt.jar
+[Info: 2021-03-12 05:25:50.277576867: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/content-types.properties, internal: lib/content-types.properties
+[Info: 2021-03-12 05:25:50.277603087: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/deploy/mixcode_s.png, internal: lib/deploy/mixcode_s.png
+[Info: 2021-03-12 05:25:50.277615908: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/deploy/messages_fr.properties, internal: lib/deploy/messages_fr.properties
+[Info: 2021-03-12 05:25:50.277626808: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/deploy/messages.properties, internal: lib/deploy/messages.properties
+[Info: 2021-03-12 05:25:50.277637368: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/deploy/messages_es.properties, internal: lib/deploy/messages_es.properties
+[Info: 2021-03-12 05:25:50.277646179: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/deploy/splash@2x.gif, internal: lib/deploy/splash@2x.gif
+[Info: 2021-03-12 05:25:50.277655879: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/deploy/messages_zh_HK.properties, internal: lib/deploy/messages_zh_HK.properties
+[Info: 2021-03-12 05:25:50.277669139: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/deploy/messages_ja.properties, internal: lib/deploy/messages_ja.properties
+[Info: 2021-03-12 05:25:50.277679929: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/deploy/messages_pt_BR.properties, internal: lib/deploy/messages_pt_BR.properties
+[Info: 2021-03-12 05:25:50.277690000: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/deploy/messages_ko.properties, internal: lib/deploy/messages_ko.properties
+[Info: 2021-03-12 05:25:50.277699870: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/deploy/ffjcext.zip, internal: lib/deploy/ffjcext.zip
+[Info: 2021-03-12 05:25:50.277709380: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/deploy/cautionshield.icns, internal: lib/deploy/cautionshield.icns
+[Info: 2021-03-12 05:25:50.277718861: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/deploy/messages_zh_CN.properties, internal: lib/deploy/messages_zh_CN.properties
+[Info: 2021-03-12 05:25:50.277727611: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/deploy/MixedCodeMainDialog.ui, internal: lib/deploy/MixedCodeMainDialog.ui
+[Info: 2021-03-12 05:25:50.277737161: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/deploy/messages_it.properties, internal: lib/deploy/messages_it.properties
+[Info: 2021-03-12 05:25:50.277749811: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/deploy/java-icon.ico, internal: lib/deploy/java-icon.ico
+[Info: 2021-03-12 05:25:50.277763212: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/deploy/messages_sv.properties, internal: lib/deploy/messages_sv.properties
+[Info: 2021-03-12 05:25:50.277776802: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/deploy/splash_11-lic.gif, internal: lib/deploy/splash_11-lic.gif
+[Info: 2021-03-12 05:25:50.277787822: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/deploy/MixedCodeMainDialogJs.ui, internal: lib/deploy/MixedCodeMainDialogJs.ui
+[Info: 2021-03-12 05:25:50.277797173: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/deploy/splash.gif, internal: lib/deploy/splash.gif
+[Info: 2021-03-12 05:25:50.277805983: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/deploy/messages_de.properties, internal: lib/deploy/messages_de.properties
+[Info: 2021-03-12 05:25:50.277815273: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/deploy/messages_zh_TW.properties, internal: lib/deploy/messages_zh_TW.properties
+[Info: 2021-03-12 05:25:50.277824853: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/deploy/splash_11@2x-lic.gif, internal: lib/deploy/splash_11@2x-lic.gif
+[Info: 2021-03-12 05:25:50.277840544: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/psfont.properties.ja, internal: lib/psfont.properties.ja
+[Info: 2021-03-12 05:25:50.277850924: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/sound.properties, internal: lib/sound.properties
+[Info: 2021-03-12 05:25:50.277874365: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/cmm/sRGB.pf, internal: lib/cmm/sRGB.pf
+[Info: 2021-03-12 05:25:50.277882625: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/cmm/PYCC.pf, internal: lib/cmm/PYCC.pf
+[Info: 2021-03-12 05:25:50.277891995: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/cmm/CIEXYZ.pf, internal: lib/cmm/CIEXYZ.pf
+[Info: 2021-03-12 05:25:50.277900535: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/cmm/LINEAR_RGB.pf, internal: lib/cmm/LINEAR_RGB.pf
+[Info: 2021-03-12 05:25:50.277910116: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/cmm/GRAY.pf, internal: lib/cmm/GRAY.pf
+[Info: 2021-03-12 05:25:50.277921156: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/fontconfig.RedHat.5.bfc, internal: lib/fontconfig.RedHat.5.bfc
+[Info: 2021-03-12 05:25:50.277938927: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/fontconfig.SuSE.10.properties.src, internal: lib/fontconfig.SuSE.10.properties.src
+[Info: 2021-03-12 05:25:50.277960197: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/oblique-fonts/fonts.dir, internal: lib/oblique-fonts/fonts.dir
+[Info: 2021-03-12 05:25:50.277970857: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/oblique-fonts/LucidaTypewriterOblique.ttf, internal: lib/oblique-fonts/LucidaTypewriterOblique.ttf
+[Info: 2021-03-12 05:25:50.277979958: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/oblique-fonts/LucidaSansOblique.ttf, internal: lib/oblique-fonts/LucidaSansOblique.ttf
+[Info: 2021-03-12 05:25:50.277989078: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/oblique-fonts/LucidaTypewriterBoldOblique.ttf, internal: lib/oblique-fonts/LucidaTypewriterBoldOblique.ttf
+[Info: 2021-03-12 05:25:50.277998018: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/oblique-fonts/LucidaSansDemiOblique.ttf, internal: lib/oblique-fonts/LucidaSansDemiOblique.ttf
+[Info: 2021-03-12 05:25:50.278007798: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/fontconfig.bfc, internal: lib/fontconfig.bfc
+[Info: 2021-03-12 05:25:50.278040479: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/images/icons/sun-java_HighContrast.png, internal: lib/images/icons/sun-java_HighContrast.png
+[Info: 2021-03-12 05:25:50.278056720: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/images/icons/sun-java_HighContrastInverse.png, internal: lib/images/icons/sun-java_HighContrastInverse.png
+[Info: 2021-03-12 05:25:50.278067130: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/images/icons/sun-java.png, internal: lib/images/icons/sun-java.png
+[Info: 2021-03-12 05:25:50.278077300: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/images/icons/sun-java_LowContrast.png, internal: lib/images/icons/sun-java_LowContrast.png
+[Info: 2021-03-12 05:25:50.278100951: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/images/cursors/motif_MoveNoDrop32x32.gif, internal: lib/images/cursors/motif_MoveNoDrop32x32.gif
+[Info: 2021-03-12 05:25:50.278110581: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/images/cursors/motif_LinkNoDrop32x32.gif, internal: lib/images/cursors/motif_LinkNoDrop32x32.gif
+[Info: 2021-03-12 05:25:50.278119861: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/images/cursors/motif_CopyNoDrop32x32.gif, internal: lib/images/cursors/motif_CopyNoDrop32x32.gif
+[Info: 2021-03-12 05:25:50.278129402: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/images/cursors/motif_LinkDrop32x32.gif, internal: lib/images/cursors/motif_LinkDrop32x32.gif
+[Info: 2021-03-12 05:25:50.278139862: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/images/cursors/invalid32x32.gif, internal: lib/images/cursors/invalid32x32.gif
+[Info: 2021-03-12 05:25:50.278155862: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/images/cursors/cursors.properties, internal: lib/images/cursors/cursors.properties
+[Info: 2021-03-12 05:25:50.278165663: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/images/cursors/motif_CopyDrop32x32.gif, internal: lib/images/cursors/motif_CopyDrop32x32.gif
+[Info: 2021-03-12 05:25:50.278176853: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/images/cursors/motif_MoveDrop32x32.gif, internal: lib/images/cursors/motif_MoveDrop32x32.gif
+[Info: 2021-03-12 05:25:50.278186533: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/currency.data, internal: lib/currency.data
+[Info: 2021-03-12 05:25:50.278194873: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/rt.jar, internal: lib/rt.jar
+[Info: 2021-03-12 05:25:50.278203604: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/fontconfig.SuSE.11.bfc, internal: lib/fontconfig.SuSE.11.bfc
+[Info: 2021-03-12 05:25:50.278211944: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/javaws.jar, internal: lib/javaws.jar
+[Info: 2021-03-12 05:25:50.278221164: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/tzdb.dat, internal: lib/tzdb.dat
+[Info: 2021-03-12 05:25:50.278235725: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/net.properties, internal: lib/net.properties
+[Info: 2021-03-12 05:25:50.278247185: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/plugin.jar, internal: lib/plugin.jar
+[Info: 2021-03-12 05:25:50.278254025: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/jexec, internal: lib/jexec
+[Info: 2021-03-12 05:25:50.278275416: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/management/management.properties, internal: lib/management/management.properties
+[Info: 2021-03-12 05:25:50.278284186: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/management/snmp.acl.template, internal: lib/management/snmp.acl.template
+[Info: 2021-03-12 05:25:50.278293386: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/management/jmxremote.password.template, internal: lib/management/jmxremote.password.template
+[Info: 2021-03-12 05:25:50.278302736: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/management/jmxremote.access, internal: lib/management/jmxremote.access
+[Info: 2021-03-12 05:25:50.278313427: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/fontconfig.properties.src, internal: lib/fontconfig.properties.src
+[Info: 2021-03-12 05:25:50.278328537: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/fontconfig.SuSE.11.properties.src, internal: lib/fontconfig.SuSE.11.properties.src
+[Info: 2021-03-12 05:25:50.278374928: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/jli/libjli.so, internal: lib/amd64/jli/libjli.so
+[Info: 2021-03-12 05:25:50.278383268: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libjavafx_font_t2k.so, internal: lib/amd64/libjavafx_font_t2k.so
+[Info: 2021-03-12 05:25:50.278392279: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libgstreamer-lite.so, internal: lib/amd64/libgstreamer-lite.so
+[Info: 2021-03-12 05:25:50.278401109: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libavplugin-56.so, internal: lib/amd64/libavplugin-56.so
+[Info: 2021-03-12 05:25:50.278410099: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libunpack.so, internal: lib/amd64/libunpack.so
+[Info: 2021-03-12 05:25:50.278418930: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libnpjp2.so, internal: lib/amd64/libnpjp2.so
+[Info: 2021-03-12 05:25:50.278428660: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libglass.so, internal: lib/amd64/libglass.so
+[Info: 2021-03-12 05:25:50.278444250: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libfontmanager.so, internal: lib/amd64/libfontmanager.so
+[Info: 2021-03-12 05:25:50.278455011: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libj2pkcs11.so, internal: lib/amd64/libj2pkcs11.so
+[Info: 2021-03-12 05:25:50.278464851: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libavplugin-ffmpeg-56.so, internal: lib/amd64/libavplugin-ffmpeg-56.so
+[Info: 2021-03-12 05:25:50.278473441: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libresource.so, internal: lib/amd64/libresource.so
+[Info: 2021-03-12 05:25:50.278482171: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libzip.so, internal: lib/amd64/libzip.so
+[Info: 2021-03-12 05:25:50.278490982: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libhprof.so, internal: lib/amd64/libhprof.so
+[Info: 2021-03-12 05:25:50.278499652: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libawt.so, internal: lib/amd64/libawt.so
+[Info: 2021-03-12 05:25:50.278509002: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libprism_es2.so, internal: lib/amd64/libprism_es2.so
+[Info: 2021-03-12 05:25:50.278521872: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libawt_xawt.so, internal: lib/amd64/libawt_xawt.so
+[Info: 2021-03-12 05:25:50.278533173: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libjsdt.so, internal: lib/amd64/libjsdt.so
+[Info: 2021-03-12 05:25:50.278542953: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libjavafx_iio.so, internal: lib/amd64/libjavafx_iio.so
+[Info: 2021-03-12 05:25:50.278552303: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libjfxmedia.so, internal: lib/amd64/libjfxmedia.so
+[Info: 2021-03-12 05:25:50.278561183: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libjavafx_font.so, internal: lib/amd64/libjavafx_font.so
+[Info: 2021-03-12 05:25:50.278570064: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libfxplugins.so, internal: lib/amd64/libfxplugins.so
+[Info: 2021-03-12 05:25:50.278578744: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libjsound.so, internal: lib/amd64/libjsound.so
+[Info: 2021-03-12 05:25:50.278588044: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libnpt.so, internal: lib/amd64/libnpt.so
+[Info: 2021-03-12 05:25:50.278600985: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libawt_headless.so, internal: lib/amd64/libawt_headless.so
+[Info: 2021-03-12 05:25:50.278612385: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libjfxwebkit.so, internal: lib/amd64/libjfxwebkit.so
+[Info: 2021-03-12 05:25:50.278621775: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libjawt.so, internal: lib/amd64/libjawt.so
+[Info: 2021-03-12 05:25:50.278630605: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libdeploy.so, internal: lib/amd64/libdeploy.so
+[Info: 2021-03-12 05:25:50.278639135: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libsunec.so, internal: lib/amd64/libsunec.so
+[Info: 2021-03-12 05:25:50.278648136: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libavplugin-53.so, internal: lib/amd64/libavplugin-53.so
+[Info: 2021-03-12 05:25:50.278669966: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/server/libjvm.so, internal: lib/amd64/server/libjvm.so
+[Info: 2021-03-12 05:25:50.278690117: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/server/Xusage.txt, internal: lib/amd64/server/Xusage.txt
+[Info: 2021-03-12 05:25:50.278704507: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libverify.so, internal: lib/amd64/libverify.so
+[Info: 2021-03-12 05:25:50.278716488: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libmlib_image.so, internal: lib/amd64/libmlib_image.so
+[Info: 2021-03-12 05:25:50.278725758: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libj2pcsc.so, internal: lib/amd64/libj2pcsc.so
+[Info: 2021-03-12 05:25:50.278734798: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libavplugin-54.so, internal: lib/amd64/libavplugin-54.so
+[Info: 2021-03-12 05:25:50.278743768: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libglib-lite.so, internal: lib/amd64/libglib-lite.so
+[Info: 2021-03-12 05:25:50.278753139: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libjavafx_font_freetype.so, internal: lib/amd64/libjavafx_font_freetype.so
+[Info: 2021-03-12 05:25:50.278761849: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libjdwp.so, internal: lib/amd64/libjdwp.so
+[Info: 2021-03-12 05:25:50.278771599: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libjsoundalsa.so, internal: lib/amd64/libjsoundalsa.so
+[Info: 2021-03-12 05:25:50.278784349: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libbci.so, internal: lib/amd64/libbci.so
+[Info: 2021-03-12 05:25:50.278795690: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libsplashscreen.so, internal: lib/amd64/libsplashscreen.so
+[Info: 2021-03-12 05:25:50.278805770: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libjsig.so, internal: lib/amd64/libjsig.so
+[Info: 2021-03-12 05:25:50.278814180: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libsctp.so, internal: lib/amd64/libsctp.so
+[Info: 2021-03-12 05:25:50.278823280: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/jvm.cfg, internal: lib/amd64/jvm.cfg
+[Info: 2021-03-12 05:25:50.278832291: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libjaas_unix.so, internal: lib/amd64/libjaas_unix.so
+[Info: 2021-03-12 05:25:50.278841311: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libjava.so, internal: lib/amd64/libjava.so
+[Info: 2021-03-12 05:25:50.278850381: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libjfr.so, internal: lib/amd64/libjfr.so
+[Info: 2021-03-12 05:25:50.278863552: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libinstrument.so, internal: lib/amd64/libinstrument.so
+[Info: 2021-03-12 05:25:50.278875172: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libdcpr.so, internal: lib/amd64/libdcpr.so
+[Info: 2021-03-12 05:25:50.278884412: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/liblcms.so, internal: lib/amd64/liblcms.so
+[Info: 2021-03-12 05:25:50.278892362: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libdecora_sse.so, internal: lib/amd64/libdecora_sse.so
+[Info: 2021-03-12 05:25:50.278903273: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libjpeg.so, internal: lib/amd64/libjpeg.so
+[Info: 2021-03-12 05:25:50.278911813: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libdt_socket.so, internal: lib/amd64/libdt_socket.so
+[Info: 2021-03-12 05:25:50.278920453: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libt2k.so, internal: lib/amd64/libt2k.so
+[Info: 2021-03-12 05:25:50.278929913: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libnio.so, internal: lib/amd64/libnio.so
+[Info: 2021-03-12 05:25:50.278942334: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libglassgtk3.so, internal: lib/amd64/libglassgtk3.so
+[Info: 2021-03-12 05:25:50.278953864: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libprism_sw.so, internal: lib/amd64/libprism_sw.so
+[Info: 2021-03-12 05:25:50.278962884: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libglassgtk2.so, internal: lib/amd64/libglassgtk2.so
+[Info: 2021-03-12 05:25:50.278972715: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libjavafx_font_pango.so, internal: lib/amd64/libjavafx_font_pango.so
+[Info: 2021-03-12 05:25:50.278981765: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libnet.so, internal: lib/amd64/libnet.so
+[Info: 2021-03-12 05:25:50.278990815: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libmanagement.so, internal: lib/amd64/libmanagement.so
+[Info: 2021-03-12 05:25:50.278999695: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libavplugin-ffmpeg-57.so, internal: lib/amd64/libavplugin-ffmpeg-57.so
+[Info: 2021-03-12 05:25:50.279009476: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libavplugin-57.so, internal: lib/amd64/libavplugin-57.so
+[Info: 2021-03-12 05:25:50.279022516: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libprism_common.so, internal: lib/amd64/libprism_common.so
+[Info: 2021-03-12 05:25:50.279034916: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libj2gss.so, internal: lib/amd64/libj2gss.so
+[Info: 2021-03-12 05:25:50.279043456: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libavplugin-55.so, internal: lib/amd64/libavplugin-55.so
+[Info: 2021-03-12 05:25:50.279053547: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/amd64/libjava_crw_demo.so, internal: lib/amd64/libjava_crw_demo.so
+[Info: 2021-03-12 05:25:50.279065297: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/fontconfig.RedHat.6.properties.src, internal: lib/fontconfig.RedHat.6.properties.src
+[Info: 2021-03-12 05:25:50.279073607: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/fontconfig.SuSE.10.bfc, internal: lib/fontconfig.SuSE.10.bfc
+[Info: 2021-03-12 05:25:50.279096348: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/security/java.security, internal: lib/security/java.security
+[Info: 2021-03-12 05:25:50.279105978: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/security/javaws.policy, internal: lib/security/javaws.policy
+[Info: 2021-03-12 05:25:50.279144779: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/security/policy/limited/US_export_policy.jar, internal: lib/security/policy/limited/US_export_policy.jar
+[Info: 2021-03-12 05:25:50.279156829: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/security/policy/limited/local_policy.jar, internal: lib/security/policy/limited/local_policy.jar
+[Info: 2021-03-12 05:25:50.279177350: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/security/policy/unlimited/US_export_policy.jar, internal: lib/security/policy/unlimited/US_export_policy.jar
+[Info: 2021-03-12 05:25:50.279187900: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/security/policy/unlimited/local_policy.jar, internal: lib/security/policy/unlimited/local_policy.jar
+[Info: 2021-03-12 05:25:50.279198681: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/security/blacklisted.certs, internal: lib/security/blacklisted.certs
+[Info: 2021-03-12 05:25:50.279207151: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/security/cacerts, internal: lib/security/cacerts
+[Info: 2021-03-12 05:25:50.279216141: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/security/blacklist, internal: lib/security/blacklist
+[Info: 2021-03-12 05:25:50.279225941: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/security/java.policy, internal: lib/security/java.policy
+[Info: 2021-03-12 05:25:50.279241192: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/security/trusted.libraries, internal: lib/security/trusted.libraries
+[Info: 2021-03-12 05:25:50.279252892: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/psfontj2d.properties, internal: lib/psfontj2d.properties
+[Info: 2021-03-12 05:25:50.279261172: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/jsse.jar, internal: lib/jsse.jar
+[Info: 2021-03-12 05:25:50.279270443: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/flavormap.properties, internal: lib/flavormap.properties
+[Info: 2021-03-12 05:25:50.279279183: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/logging.properties, internal: lib/logging.properties
+[Info: 2021-03-12 05:25:50.279286243: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/fontconfig.Turbo.properties.src, internal: lib/fontconfig.Turbo.properties.src
+[Info: 2021-03-12 05:25:50.279296663: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/meta-index, internal: lib/meta-index
+[Info: 2021-03-12 05:25:50.279305593: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/resources.jar, internal: lib/resources.jar
+[Info: 2021-03-12 05:25:50.279336004: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/fonts/LucidaSansDemiBold.ttf, internal: lib/fonts/LucidaSansDemiBold.ttf
+[Info: 2021-03-12 05:25:50.279343875: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/fonts/LucidaBrightDemiItalic.ttf, internal: lib/fonts/LucidaBrightDemiItalic.ttf
+[Info: 2021-03-12 05:25:50.279352835: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/fonts/LucidaTypewriterRegular.ttf, internal: lib/fonts/LucidaTypewriterRegular.ttf
+[Info: 2021-03-12 05:25:50.279362625: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/fonts/LucidaBrightRegular.ttf, internal: lib/fonts/LucidaBrightRegular.ttf
+[Info: 2021-03-12 05:25:50.279371605: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/fonts/LucidaBrightItalic.ttf, internal: lib/fonts/LucidaBrightItalic.ttf
+[Info: 2021-03-12 05:25:50.279381196: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/fonts/fonts.dir, internal: lib/fonts/fonts.dir
+[Info: 2021-03-12 05:25:50.279390016: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/fonts/LucidaSansRegular.ttf, internal: lib/fonts/LucidaSansRegular.ttf
+[Info: 2021-03-12 05:25:50.279400126: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/fonts/LucidaBrightDemiBold.ttf, internal: lib/fonts/LucidaBrightDemiBold.ttf
+[Info: 2021-03-12 05:25:50.279413136: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/lib/fonts/LucidaTypewriterBold.ttf, internal: lib/fonts/LucidaTypewriterBold.ttf
+[Info: 2021-03-12 05:25:50.279462438: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/man/ja_JP.UTF-8/man1/orbd.1, internal: man/ja_JP.UTF-8/man1/orbd.1
+[Info: 2021-03-12 05:25:50.279471888: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/man/ja_JP.UTF-8/man1/rmiregistry.1, internal: man/ja_JP.UTF-8/man1/rmiregistry.1
+[Info: 2021-03-12 05:25:50.279481038: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/man/ja_JP.UTF-8/man1/rmid.1, internal: man/ja_JP.UTF-8/man1/rmid.1
+[Info: 2021-03-12 05:25:50.279490358: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/man/ja_JP.UTF-8/man1/keytool.1, internal: man/ja_JP.UTF-8/man1/keytool.1
+[Info: 2021-03-12 05:25:50.279500179: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/man/ja_JP.UTF-8/man1/pack200.1, internal: man/ja_JP.UTF-8/man1/pack200.1
+[Info: 2021-03-12 05:25:50.279508789: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/man/ja_JP.UTF-8/man1/tnameserv.1, internal: man/ja_JP.UTF-8/man1/tnameserv.1
+[Info: 2021-03-12 05:25:50.279518749: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/man/ja_JP.UTF-8/man1/jjs.1, internal: man/ja_JP.UTF-8/man1/jjs.1
+[Info: 2021-03-12 05:25:50.279531579: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/man/ja_JP.UTF-8/man1/javaws.1, internal: man/ja_JP.UTF-8/man1/javaws.1
+[Info: 2021-03-12 05:25:50.279545680: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/man/ja_JP.UTF-8/man1/servertool.1, internal: man/ja_JP.UTF-8/man1/servertool.1
+[Info: 2021-03-12 05:25:50.279554780: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/man/ja_JP.UTF-8/man1/java.1, internal: man/ja_JP.UTF-8/man1/java.1
+[Info: 2021-03-12 05:25:50.279563720: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/man/ja_JP.UTF-8/man1/unpack200.1, internal: man/ja_JP.UTF-8/man1/unpack200.1
+[Info: 2021-03-12 05:25:50.279573061: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/man/ja_JP.UTF-8/man1/policytool.1, internal: man/ja_JP.UTF-8/man1/policytool.1
+[Info: 2021-03-12 05:25:50.279605712: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/man/man1/orbd.1, internal: man/man1/orbd.1
+[Info: 2021-03-12 05:25:50.279614782: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/man/man1/rmiregistry.1, internal: man/man1/rmiregistry.1
+[Info: 2021-03-12 05:25:50.279624362: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/man/man1/rmid.1, internal: man/man1/rmid.1
+[Info: 2021-03-12 05:25:50.279636602: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/man/man1/keytool.1, internal: man/man1/keytool.1
+[Info: 2021-03-12 05:25:50.279647763: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/man/man1/pack200.1, internal: man/man1/pack200.1
+[Info: 2021-03-12 05:25:50.279658393: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/man/man1/tnameserv.1, internal: man/man1/tnameserv.1
+[Info: 2021-03-12 05:25:50.279667293: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/man/man1/jjs.1, internal: man/man1/jjs.1
+[Info: 2021-03-12 05:25:50.279675873: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/man/man1/javaws.1, internal: man/man1/javaws.1
+[Info: 2021-03-12 05:25:50.279685324: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/man/man1/servertool.1, internal: man/man1/servertool.1
+[Info: 2021-03-12 05:25:50.279693724: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/man/man1/java.1, internal: man/man1/java.1
+[Info: 2021-03-12 05:25:50.279702884: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/man/man1/unpack200.1, internal: man/man1/unpack200.1
+[Info: 2021-03-12 05:25:50.279715455: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/man/man1/policytool.1, internal: man/man1/policytool.1
+[Info: 2021-03-12 05:25:50.279741965: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/bin/unpack200, internal: bin/unpack200
+[Info: 2021-03-12 05:25:50.279750696: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/bin/tnameserv, internal: bin/tnameserv
+[Info: 2021-03-12 05:25:50.279759136: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/bin/jcontrol, internal: bin/jcontrol
+[Info: 2021-03-12 05:25:50.279767656: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/bin/java, internal: bin/java
+[Info: 2021-03-12 05:25:50.279784336: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/bin/pack200, internal: bin/pack200
+[Info: 2021-03-12 05:25:50.279792617: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/bin/javaws, internal: bin/javaws
+[Info: 2021-03-12 05:25:50.279801517: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/bin/policytool, internal: bin/policytool
+[Info: 2021-03-12 05:25:50.279813147: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/bin/keytool, internal: bin/keytool
+[Info: 2021-03-12 05:25:50.279824427: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/bin/jjs, internal: bin/jjs
+[Info: 2021-03-12 05:25:50.279834028: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/bin/rmiregistry, internal: bin/rmiregistry
+[Info: 2021-03-12 05:25:50.279842098: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/bin/orbd, internal: bin/orbd
+[Info: 2021-03-12 05:25:50.279850508: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/bin/servertool, internal: bin/servertool
+[Info: 2021-03-12 05:25:50.279859438: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/bin/rmid, internal: bin/rmid
+[Info: 2021-03-12 05:25:50.279868569: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/LICENSE, internal: LICENSE
+[Info: 2021-03-12 05:25:50.279876839: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/release, internal: release
+[Info: 2021-03-12 05:25:50.279888959: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/THIRDPARTYLICENSEREADME-JAVAFX.txt, internal: THIRDPARTYLICENSEREADME-JAVAFX.txt
+[Info: 2021-03-12 05:25:50.279899599: Sha1Cacher.cpp(105)] SHA1 cacher get /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/COPYRIGHT, internal: COPYRIGHT
+[Info: 2021-03-12 05:25:50.281995246: GameCallbacks.cpp(162)] Launcher/launcher (main) Debug Have 2643 total files to check or download
+[Info: 2021-03-12 05:25:50.282564481: GameCallbacks.cpp(162)] Launcher/launcher (main) Debug Waiting for 2643 futures
+[Info: 2021-03-12 05:25:50.282840739: NetQueue.cpp(585)] NetQueue: Starting net action https://libraries.minecraft.net/optifine/launchwrapper-of/2.2/launchwrapper-of-2.2.jar.sha1
+[Info: 2021-03-12 05:25:50.283987570: NetQueue.cpp(585)] NetQueue: Starting net action https://libraries.minecraft.net/optifine/OptiFine/1.16.5_HD_U_G7/OptiFine-1.16.5_HD_U_G7.jar.sha1
+[Info: 2021-03-12 05:25:52.253030213: NetQueue.cpp(428)] NetQueue: Primary ip: 99.84.226.87, Host: libraries.minecraft.net
+[Info: 2021-03-12 05:25:52.253075685: NetQueue.cpp(504)] NetQueue: Action finished: https://libraries.minecraft.net/optifine/launchwrapper-of/2.2/launchwrapper-of-2.2.jar.sha1
+[Info: 2021-03-12 05:25:52.253125546: NetQueue.cpp(527)] NetQueue: Action failed in finalization: https://libraries.minecraft.net/optifine/launchwrapper-of/2.2/launchwrapper-of-2.2.jar.sha1
+[Info: 2021-03-12 05:25:52.253123186: GameCallbacks.cpp(162)] Launcher/launcher (main) Warn Couldn't fetch SHA1 checksum for https://libraries.minecraft.net/optifine/launchwrapper-of/2.2/launchwrapper-of-2.2.jar
+[Info: 2021-03-12 05:25:52.253210168: GameCallbacks.cpp(162)] Launcher/launcher (main) Warn Have local file /home/aiyah/.minecraft/libraries/optifine/launchwrapper-of/2.2/launchwrapper-of-2.2.jar but don't know what size or hash it should be. Have to assume it's good.
+[Info: 2021-03-12 05:25:52.889190434: NetQueue.cpp(428)] NetQueue: Primary ip: 99.84.226.87, Host: libraries.minecraft.net
+[Info: 2021-03-12 05:25:52.889232285: NetQueue.cpp(504)] NetQueue: Action finished: https://libraries.minecraft.net/optifine/OptiFine/1.16.5_HD_U_G7/OptiFine-1.16.5_HD_U_G7.jar.sha1
+[Info: 2021-03-12 05:25:52.889260666: GameCallbacks.cpp(162)] Launcher/launcher (main) Warn Couldn't fetch SHA1 checksum for https://libraries.minecraft.net/optifine/OptiFine/1.16.5_HD_U_G7/OptiFine-1.16.5_HD_U_G7.jar
+[Info: 2021-03-12 05:25:52.889281816: NetQueue.cpp(527)] NetQueue: Action failed in finalization: https://libraries.minecraft.net/optifine/OptiFine/1.16.5_HD_U_G7/OptiFine-1.16.5_HD_U_G7.jar.sha1
+[Info: 2021-03-12 05:25:52.889310817: GameCallbacks.cpp(162)] Launcher/launcher (main) Warn Have local file /home/aiyah/.minecraft/libraries/optifine/OptiFine/1.16.5_HD_U_G7/OptiFine-1.16.5_HD_U_G7.jar but don't know what size or hash it should be. Have to assume it's good.
+[Info: 2021-03-12 05:25:52.889876192: GameCallbacks.cpp(162)] Launcher/launcher (main) Info Checking installations.
+[Info: 2021-03-12 05:25:52.890456338: GameCallbacks.cpp(162)] Launcher/launcher (main) Info Minecraft client 1.16.5-OptiFine_HD_U_G7 is ready to start.
+[Info: 2021-03-12 05:25:52.890466948: GameController.cpp(441)] Starting game with token 1
+[Info: 2021-03-12 05:25:52.890483749: GameCallbacks.cpp(162)] Launcher/launcher (main) Info Starting!
+[Info: 2021-03-12 05:25:52.890532810: GameCallbacks.cpp(162)] Launcher/launcher (main) Debug Nothing to download!
+[Info: 2021-03-12 05:25:52.890551370: GameCallbacks.cpp(162)] Launcher/launcher (main) Debug Extracting 8 files!
+[Info: 2021-03-12 05:25:52.903883799: GameCallbacks.cpp(162)] Launcher/launcher (main) Info Using default game log configuration client-1.12.xml (outputs XML)
+[Info: 2021-03-12 05:25:52.903900420: GameCallbacks.cpp(162)] Launcher/launcher (main) Debug Installing versions!
+[Info: 2021-03-12 05:25:52.903942041: ClientStarter.cpp(904)] Java argument:-Xss1M
+[Info: 2021-03-12 05:25:52.903950471: ClientStarter.cpp(904)] Java argument:-Djava.library.path=/home/aiyah/.minecraft/bin/ad38-e9b3-7e0a-1371
+[Info: 2021-03-12 05:25:52.903957451: ClientStarter.cpp(904)] Java argument:-Dminecraft.launcher.brand=minecraft-launcher
+[Info: 2021-03-12 05:25:52.903963852: ClientStarter.cpp(904)] Java argument:-Dminecraft.launcher.version=2.2.2313
+[Info: 2021-03-12 05:25:52.903969932: ClientStarter.cpp(904)] Java argument:-cp
+[Info: 2021-03-12 05:25:52.903976752: ClientStarter.cpp(904)] Java argument:/home/aiyah/.minecraft/libraries/optifine/OptiFine/1.16.5_HD_U_G7/OptiFine-1.16.5_HD_U_G7.jar:/home/aiyah/.minecraft/libraries/optifine/launchwrapper-of/2.2/launchwrapper-of-2.2.jar:/home/aiyah/.minecraft/libraries/com/mojang/patchy/1.1/patchy-1.1.jar:/home/aiyah/.minecraft/libraries/oshi-project/oshi-core/1.1/oshi-core-1.1.jar:/home/aiyah/.minecraft/libraries/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar:/home/aiyah/.minecraft/libraries/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar:/home/aiyah/.minecraft/libraries/com/ibm/icu/icu4j/66.1/icu4j-66.1.jar:/home/aiyah/.minecraft/libraries/com/mojang/javabridge/1.0.22/javabridge-1.0.22.jar:/home/aiyah/.minecraft/libraries/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar:/home/aiyah/.minecraft/libraries/io/netty/netty-all/4.1.25.Final/netty-all-4.1.25.Final.jar:/home/aiyah/.minecraft/libraries/com/google/guava/guava/21.0/guava-21.0.jar:/home/aiyah/.minecraft/libraries/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar:/home/aiyah/.minecraft/libraries/commons-io/commons-io/2.5/commons-io-2.5.jar:/home/aiyah/.minecraft/libraries/commons-codec/commons-codec/1.10/commons-codec-1.10.jar:/home/aiyah/.minecraft/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar:/home/aiyah/.minecraft/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar:/home/aiyah/.minecraft/libraries/com/mojang/brigadier/1.0.17/brigadier-1.0.17.jar:/home/aiyah/.minecraft/libraries/com/mojang/datafixerupper/4.0.26/datafixerupper-4.0.26.jar:/home/aiyah/.minecraft/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar:/home/aiyah/.minecraft/libraries/com/mojang/authlib/2.1.28/authlib-2.1.28.jar:/home/aiyah/.minecraft/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar:/home/aiyah/.minecraft/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar:/home/aiyah/.minecraft/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar:/home/aiyah/.minecraft/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar:/home/aiyah/.minecraft/libraries/it/unimi/dsi/fastutil/8.2.1/fastutil-8.2.1.jar:/home/aiyah/.minecraft/libraries/org/apache/logging/log4j/log4j-api/2.8.1/log4j-api-2.8.1.jar:/home/aiyah/.minecraft/libraries/org/apache/logging/log4j/log4j-core/2.8.1/log4j-core-2.8.1.jar:/home/aiyah/.minecraft/libraries/org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2.jar:/home/aiyah/.minecraft/libraries/org/lwjgl/lwjgl-jemalloc/3.2.2/lwjgl-jemalloc-3.2.2.jar:/home/aiyah/.minecraft/libraries/org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2.jar:/home/aiyah/.minecraft/libraries/org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2.jar:/home/aiyah/.minecraft/libraries/org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2.jar:/home/aiyah/.minecraft/libraries/org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2.jar:/home/aiyah/.minecraft/libraries/org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2.jar:/home/aiyah/.minecraft/libraries/com/mojang/text2speech/1.11.3/text2speech-1.11.3.jar:/home/aiyah/.minecraft/versions/1.16.5-OptiFine_HD_U_G7/1.16.5-OptiFine_HD_U_G7.jar
+[Info: 2021-03-12 05:25:52.903991122: ClientStarter.cpp(904)] Java argument:-Xmx2G
+[Info: 2021-03-12 05:25:52.903997252: ClientStarter.cpp(904)] Java argument:-XX:+UnlockExperimentalVMOptions
+[Info: 2021-03-12 05:25:52.904004603: ClientStarter.cpp(904)] Java argument:-XX:+UseG1GC
+[Info: 2021-03-12 05:25:52.904010593: ClientStarter.cpp(904)] Java argument:-XX:G1NewSizePercent=20
+[Info: 2021-03-12 05:25:52.904016443: ClientStarter.cpp(904)] Java argument:-XX:G1ReservePercent=20
+[Info: 2021-03-12 05:25:52.904022263: ClientStarter.cpp(904)] Java argument:-XX:MaxGCPauseMillis=50
+[Info: 2021-03-12 05:25:52.904028053: ClientStarter.cpp(904)] Java argument:-XX:G1HeapRegionSize=32M
+[Info: 2021-03-12 05:25:52.904072804: ClientStarter.cpp(927)] Starting game in folder .../.minecraft using java executable .../.minecraft/runtime/jre-legacy/linux/jre-legacy/bin/java
+[Info: 2021-03-12 05:25:52.904096915: Process_Linux.cpp(20)] Creating process /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/bin/java
+[Info: 2021-03-12 05:25:52.904193318: NetQueue.cpp(183)] NetQueue: Initiating shutdown.
+[Info: 2021-03-12 05:25:52.904214118: NetQueue.cpp(197)] NetQueue: Waiting for worker thread to finish...
+[Info: 2021-03-12 05:25:52.904229799: NetQueue.cpp(689)] NetQueue: Worker thread shutting down.
+[Info: 2021-03-12 05:25:52.905737909: NetQueue.cpp(200)] NetQueue: Done.
+[Info: 2021-03-12 05:25:52.905776210: Process_Linux.cpp(115)] Starting process /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/bin/java
+[Info: 2021-03-12 05:25:52.907305891: root_window_gtk.cpp(228)] Close called, force: 0 window: 0x2ec8260
+[Info: 2021-03-12 05:25:52.910245541: client_handler.cpp(771)] NotifyBrowserClosing
+[Info: 2021-03-12 05:25:52.910484097: browser_window.cpp(59)] OnBrowserClosing
+[Info: 2021-03-12 05:25:52.912945254: client_handler.cpp(789)] NotifyBrowserClosed
+[Info: 2021-03-12 05:25:52.912974955: browser_window.cpp(66)] OnBrowserClosed (with delegate)
+[Info: 2021-03-12 05:25:52.912988305: root_window_gtk.cpp(384)] OnBrowserWindowDestroyed
+[Info: 2021-03-12 05:25:52.913059837: browser_window_std_gtk.cpp(119)] my_gtk_unrealize: 0x28edaa0
+[Info: 2021-03-12 05:25:52.913088937: browser_window_std_gtk.cpp(124)] my_gtk_destroy: 0x28edaa0
+[Info: 2021-03-12 05:25:52.913095928: root_window_gtk.cpp(578)] WindowDestroy: 0x2ec8260
+[Info: 2021-03-12 05:25:52.913155259: root_window_manager.cpp(333)] Main window has been closed: 0x7f07f400dc00
+[Info: 2021-03-12 05:25:52.913170370: root_window_manager.cpp(346)] All windows are gone.
+[Info: 2021-03-12 05:25:52.913180290: root_window_manager.cpp(348)] Checking if we can close the application...
+[Info: 2021-03-12 05:25:52.913193270: main_context.cpp(270)] Hiding launcher!
+[Warning: 2021-03-12 05:25:53.027703679: CefUI.cpp(29)] X error received: type 0, serial 348, error_code 3, request_code 10, minor_code 0
+[Info: 2021-03-12 05:25:53.185117514: GameCallbacks.cpp(162)] Game/LaunchWrapper (main) Info Loading tweak class name optifine.OptiFineTweaker
+[Info: 2021-03-12 05:25:53.186043119: GameCallbacks.cpp(162)] Game/LaunchWrapper (main) Info Using primary tweak class name optifine.OptiFineTweaker
+[Info: 2021-03-12 05:25:53.186153512: GameCallbacks.cpp(162)] Game/LaunchWrapper (main) Info Calling tweak class optifine.OptiFineTweaker
+[Info: 2021-03-12 05:25:53.308553632: GameCallbacks.cpp(162)] Game/LaunchWrapper (main) Info Launching wrapped minecraft {net.minecraft.client.main.Main}
+[Info: 2021-03-12 05:25:53.492364858: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Field not found: World.tileEntitiesToBeRemoved
+[Info: 2021-03-12 05:25:53.533104186: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.eventbus.api.Event$Result
+[Info: 2021-03-12 05:25:53.533241509: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.hasTileEntity
+[Info: 2021-03-12 05:25:53.533368863: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeEntity
+[Info: 2021-03-12 05:25:53.537166845: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.CrashReportExtender
+[Info: 2021-03-12 05:25:55.189481479: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ForgeHooksClient
+[Info: 2021-03-12 05:25:55.296339178: GameCallbacks.cpp(162)] Game/com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService (main) Info Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[Info: 2021-03-12 05:25:56.694284028: GameCallbacks.cpp(162)] Game/djz (main) Info Setting user: AiyahM
+[Info: 2021-03-12 05:25:56.762479034: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.client.settings.KeyConflictContext
+[Info: 2021-03-12 05:25:56.779450231: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.client.settings.KeyModifier
+[Info: 2021-03-12 05:25:56.787371524: GameCallbacks.cpp(162)] Game/djz (main) Info Backend library: LWJGL version 3.2.2 build 10
+[Info: 2021-03-12 05:25:56.813570230: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Method not present: net.minecraftforge.fml.loading.progress.EarlyProgressVisualization.handOffWindow
+[Info: 2021-03-12 05:25:57.152999168: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] 
+[Info: 2021-03-12 05:25:57.153090161: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] OptiFine_1.16.5_HD_U_G7
+[Info: 2021-03-12 05:25:57.153828150: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] Build: 20210305-003221
+[Info: 2021-03-12 05:25:57.153905812: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] OS: Linux (amd64) version 5.8.0-44-generic
+[Info: 2021-03-12 05:25:57.153989405: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] Java: 1.8.0_202, Oracle Corporation
+[Info: 2021-03-12 05:25:57.154072547: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[Info: 2021-03-12 05:25:57.154156519: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] LWJGL: 3.3.0 X11 GLX EGL OSMesa clock_gettime evdev shared
+[Info: 2021-03-12 05:25:57.155063623: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] OpenGL: GeForce RTX 2060/PCIe/SSE2, version 4.6.0 NVIDIA 450.102.04, NVIDIA Corporation
+[Info: 2021-03-12 05:25:57.155383142: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] OpenGL Version: 4.6.0
+[Info: 2021-03-12 05:25:57.157393396: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] Maximum texture size: 32768x32768
+[Info: 2021-03-12 05:25:57.161265500: GameCallbacks.cpp(162)] Game/net.optifine.Config (VersionCheck) Info [OptiFine] Checking for new version
+[Info: 2021-03-12 05:25:57.172599165: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] OpenGL Version: 4.6.0 NVIDIA 450.102.04
+[Info: 2021-03-12 05:25:57.173099608: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Vendor:  NVIDIA Corporation
+[Info: 2021-03-12 05:25:57.173227942: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Renderer: GeForce RTX 2060/PCIe/SSE2
+[Info: 2021-03-12 05:25:57.173492879: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[Info: 2021-03-12 05:25:57.173692584: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[Info: 2021-03-12 05:25:57.173821168: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[Info: 2021-03-12 05:25:57.173948671: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[Info: 2021-03-12 05:25:57.174102615: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Load shaders configuration.
+[Info: 2021-03-12 05:25:57.176215872: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Loaded shaderpack: Sildurs Vibrant Shaders v1.281 Extreme-VL.zip
+[Info: 2021-03-12 05:25:57.182398139: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] [Shaders] Worlds: -1, 1
+[Info: 2021-03-12 05:25:57.594633104: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.Loader
+[Info: 2021-03-12 05:25:57.602124916: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] [Shaders] Parsing block mappings: /shaders/block.properties
+[Info: 2021-03-12 05:25:57.609190536: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] [Shaders] Parsing entity mappings: /shaders/entity.properties
+[Info: 2021-03-12 05:25:57.611889429: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Custom uniform: inSwamp
+[Info: 2021-03-12 05:25:57.617678875: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Custom uniform: BiomeTemp
+[Info: 2021-03-12 05:25:57.618144647: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Custom uniform: framemod8
+[Info: 2021-03-12 05:25:57.625209247: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.pipeline.LightUtil
+[Info: 2021-03-12 05:25:57.704038879: GameCallbacks.cpp(162)] Game/net.optifine.Config (VersionCheck) Info [OptiFine] Version found: G6
+[Info: 2021-03-12 05:25:57.730548512: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ItemModelMesherForge
+[Info: 2021-03-12 05:25:57.821927602: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.pipeline.ForgeBlockModelRenderer
+[Info: 2021-03-12 05:25:57.980613303: GameCallbacks.cpp(162)] Game/com.mojang.text2speech.NarratorLinux (main) Info Narrator library successfully loaded
+[Info: 2021-03-12 05:25:57.998186346: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.gui.screen.ModListScreen
+[Info: 2021-03-12 05:25:58.004001693: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.client.gui.NotificationModUpdateScreen
+[Info: 2021-03-12 05:25:58.016466798: GameCallbacks.cpp(162)] Game/acm (main) Info Reloading ResourceManager: Default, PureBDcraft 256x MC116.zip, BDcraft Better Leaves MC116.zip, PureBDcraft CTM Transitions MC116.zip, PureBDcraft Technology MC116.zip
+[Info: 2021-03-12 05:25:58.032770667: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] *** Reloading textures ***
+[Info: 2021-03-12 05:25:58.033004583: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] Resource packs: PureBDcraft 256x MC116.zip, BDcraft Better Leaves MC116.zip, PureBDcraft CTM Transitions MC116.zip, PureBDcraft Technology MC116.zip
+[Info: 2021-03-12 05:25:58.069414672: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Method not present: eab.canRenderInLayer
+[Info: 2021-03-12 05:25:58.089931954: GameCallbacks.cpp(162)] Game/net.optifine.reflect.Reflector (main) Info [OptiFine] *** Reflector Forge ***
+[Info: 2021-03-12 05:25:58.090174120: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
+[Info: 2021-03-12 05:25:58.090321854: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.BrandingControl
+[Info: 2021-03-12 05:25:58.090492989: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.common.capabilities.ICapabilityProvider
+[Info: 2021-03-12 05:25:58.100155649: GameCallbacks.cpp(162)] Game/net.optifine.Log (Worker-Main-13) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.ModelLoaderRegistry
+[Info: 2021-03-12 05:25:58.100661282: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.common.capabilities.CapabilityProvider
+[Info: 2021-03-12 05:25:58.100864808: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.ClientModLoader
+[Info: 2021-03-12 05:25:58.101986358: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.ChunkDataEvent$Save
+[Info: 2021-03-12 05:25:58.109057199: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.ChunkEvent$Load
+[Info: 2021-03-12 05:25:58.109290355: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.ChunkEvent$Unload
+[Info: 2021-03-12 05:25:58.110727404: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.ClientHooks
+[Info: 2021-03-12 05:25:58.110929060: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Pre
+[Info: 2021-03-12 05:25:58.111125345: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Post
+[Info: 2021-03-12 05:25:58.111332430: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.event.entity.EntityLeaveWorldEvent
+[Info: 2021-03-12 05:25:58.111691620: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$CameraSetup
+[Info: 2021-03-12 05:25:58.117223958: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$FogColors
+[Info: 2021-03-12 05:25:58.117468685: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$RenderFogEvent
+[Info: 2021-03-12 05:25:58.117571918: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.event.entity.EntityJoinWorldEvent
+[Info: 2021-03-12 05:25:58.117669620: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Method not present: net.minecraftforge.eventbus.api.Event.isCanceled
+[Info: 2021-03-12 05:25:58.117732502: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Method not present: net.minecraftforge.eventbus.api.Event.getResult
+[Info: 2021-03-12 05:25:58.117856315: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.eventbus.api.IEventBus
+[Info: 2021-03-12 05:25:58.117980009: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeBlock
+[Info: 2021-03-12 05:25:58.118121542: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Method not present: eaw.getTexture
+[Info: 2021-03-12 05:25:58.118185204: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.addDestroyEffects
+[Info: 2021-03-12 05:25:58.118251786: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.addHitEffects
+[Info: 2021-03-12 05:25:58.118320418: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.getLightValue
+[Info: 2021-03-12 05:25:58.118385069: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.getSoundType
+[Info: 2021-03-12 05:25:58.118450301: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.getStateAtViewpoint
+[Info: 2021-03-12 05:25:58.118522423: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.isAir
+[Info: 2021-03-12 05:25:58.118591085: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.shouldDisplayFluidOverlay
+[Info: 2021-03-12 05:25:58.118717608: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeFluid
+[Info: 2021-03-12 05:25:58.118857442: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.fluids.FluidAttributes
+[Info: 2021-03-12 05:25:58.119318355: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Method not present: aqe.getTags
+[Info: 2021-03-12 05:25:58.119444308: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.event.ForgeEventFactory
+[Info: 2021-03-12 05:25:58.119611633: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Method not present: cuw.getTags
+[Info: 2021-03-12 05:25:58.119733966: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeHooks
+[Info: 2021-03-12 05:25:58.119860009: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeConfig
+[Info: 2021-03-12 05:25:58.119978183: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeConfig$Client
+[Info: 2021-03-12 05:25:58.120092896: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeConfigSpec
+[Info: 2021-03-12 05:25:58.120207309: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeConfigSpec$ConfigValue
+[Info: 2021-03-12 05:25:58.122093920: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Method not present: cfw.getWorldForge
+[Info: 2021-03-12 05:25:58.122222563: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeItem
+[Info: 2021-03-12 05:25:58.122345146: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeItemStack
+[Info: 2021-03-12 05:25:58.122460749: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.ForgeI18n
+[Info: 2021-03-12 05:25:58.122600593: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Method not present: djw.setKeyConflictContext
+[Info: 2021-03-12 05:25:58.122667915: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Method not present: djw.setKeyModifierAndCode
+[Info: 2021-03-12 05:25:58.122736097: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Method not present: djw.getKeyModifier
+[Info: 2021-03-12 05:25:58.122858900: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeEffectInstance
+[Info: 2021-03-12 05:25:58.122988704: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.registries.ForgeRegistryEntry
+[Info: 2021-03-12 05:25:58.123057926: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Method not present: eab.canRenderInLayer
+[Info: 2021-03-12 05:25:58.123714823: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Constructor not present: aak, params: class aal, int, class java.lang.Object, boolean
+[Info: 2021-03-12 05:25:58.123838827: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Method not present: aak.isForceTicks
+[Info: 2021-03-12 05:25:58.123963750: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeTileEntity
+[Info: 2021-03-12 05:25:58.124250018: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Method not present: dzv.getCloudRenderHandler
+[Info: 2021-03-12 05:25:58.124317020: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Method not present: dzv.getSkyRenderHandler
+[Info: 2021-03-12 05:25:58.124383891: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Method not present: dzv.getWeatherParticleRenderHandler
+[Info: 2021-03-12 05:25:58.124449293: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Method not present: dzv.getWeatherRenderHandler
+[Info: 2021-03-12 05:25:58.124573337: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.client.IRenderHandler
+[Info: 2021-03-12 05:25:58.124693780: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.common.MinecraftForge
+[Info: 2021-03-12 05:25:58.124809223: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.client.MinecraftForgeClient
+[Info: 2021-03-12 05:25:58.124927076: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.ModContainer
+[Info: 2021-03-12 05:25:58.125052720: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.entity.PartEntity
+[Info: 2021-03-12 05:25:58.125170743: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.event.entity.PlaySoundAtEntityEvent
+[Info: 2021-03-12 05:25:58.125292586: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderBlockOverlayEvent$OverlayType
+[Info: 2021-03-12 05:25:58.125414759: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.registry.RenderingRegistry
+[Info: 2021-03-12 05:25:58.125533022: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderItemInFrameEvent
+[Info: 2021-03-12 05:25:58.125656926: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Pre
+[Info: 2021-03-12 05:25:58.125772719: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Post
+[Info: 2021-03-12 05:25:58.125955834: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderNameplateEvent
+[Info: 2021-03-12 05:25:58.126030506: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.ScreenshotEvent
+[Info: 2021-03-12 05:25:58.126155179: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.server.ServerLifecycleHooks
+[Info: 2021-03-12 05:25:58.126274452: GameCallbacks.cpp(162)] Game/net.optifine.Log (main) Info [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.WorldEvent$Load
+[Info: 2021-03-12 05:25:58.126343994: GameCallbacks.cpp(162)] Game/net.optifine.reflect.Reflector (main) Info [OptiFine] *** Reflector Vanilla ***
+[Info: 2021-03-12 05:25:58.179938575: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-9) Info [OptiFine] Multitexture: false
+[Info: 2021-03-12 05:25:58.181543639: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-8) Info [OptiFine] Multitexture: false
+[Info: 2021-03-12 05:25:58.182537155: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-11) Info [OptiFine] Multitexture: false
+[Info: 2021-03-12 05:25:58.218827602: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] Loading optifine/color.properties
+[Info: 2021-03-12 05:25:58.219118750: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] screen.loading = 1e1e1e
+[Info: 2021-03-12 05:25:58.219190912: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] screen.loading.bar = ffffff
+[Info: 2021-03-12 05:25:58.219258603: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] screen.loading.progress = b4c8ff
+[Info: 2021-03-12 05:25:59.637868422: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] CustomItems: optifine/cit/elytra/broken_elytra.properties
+[Info: 2021-03-12 05:25:59.640249746: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] CustomItems: optifine/cit/enchants/aqua_affinity.properties
+[Info: 2021-03-12 05:25:59.640756019: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] CustomItems: optifine/cit/enchants/bane_of_arthropods.properties
+[Info: 2021-03-12 05:25:59.640883083: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] CustomItems: optifine/cit/enchants/binding_curse.properties
+[Info: 2021-03-12 05:25:59.640992985: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] CustomItems: optifine/cit/enchants/blast_protection.properties
+[Info: 2021-03-12 05:25:59.641116879: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] CustomItems: optifine/cit/enchants/channeling.properties
+[Info: 2021-03-12 05:25:59.641219972: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] CustomItems: optifine/cit/enchants/chopping.properties
+[Info: 2021-03-12 05:25:59.641337245: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Warn [OptiFine] Invalid value: chopping
+[Info: 2021-03-12 05:25:59.641401057: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] CustomItems: optifine/cit/enchants/depth_strider.properties
+[Info: 2021-03-12 05:25:59.641506830: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] CustomItems: optifine/cit/enchants/efficiency.properties
+[Info: 2021-03-12 05:25:59.641607012: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] CustomItems: optifine/cit/enchants/feather_falling.properties
+[Info: 2021-03-12 05:25:59.641710125: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] CustomItems: optifine/cit/enchants/fire_aspect.properties
+[Info: 2021-03-12 05:25:59.641822608: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] CustomItems: optifine/cit/enchants/fire_protection.properties
+[Info: 2021-03-12 05:25:59.641926521: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] CustomItems: optifine/cit/enchants/flame.properties
+[Info: 2021-03-12 05:25:59.642040704: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] CustomItems: optifine/cit/enchants/fortune.properties
+[Info: 2021-03-12 05:25:59.642143207: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] CustomItems: optifine/cit/enchants/frost_walker.properties
+[Info: 2021-03-12 05:25:59.642252080: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] CustomItems: optifine/cit/enchants/impaling.properties
+[Info: 2021-03-12 05:25:59.642357122: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] CustomItems: optifine/cit/enchants/infinity.properties
+[Info: 2021-03-12 05:25:59.642463695: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] CustomItems: optifine/cit/enchants/knockback.properties
+[Info: 2021-03-12 05:25:59.642575418: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] CustomItems: optifine/cit/enchants/looting.properties
+[Info: 2021-03-12 05:25:59.642676181: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] CustomItems: optifine/cit/enchants/loyalty.properties
+[Info: 2021-03-12 05:25:59.642775754: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] CustomItems: optifine/cit/enchants/luck_of_the_sea.properties
+[Info: 2021-03-12 05:25:59.642880766: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] CustomItems: optifine/cit/enchants/lure.properties
+[Info: 2021-03-12 05:25:59.643010060: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] CustomItems: optifine/cit/enchants/mending.properties
+[Info: 2021-03-12 05:25:59.643127543: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] CustomItems: optifine/cit/enchants/multishot.properties
+[Info: 2021-03-12 05:25:59.643209825: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] CustomItems: optifine/cit/enchants/piercing.properties
+[Info: 2021-03-12 05:25:59.643314718: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] CustomItems: optifine/cit/enchants/power.properties
+[Info: 2021-03-12 05:25:59.643410651: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] CustomItems: optifine/cit/enchants/projectile_protection.properties
+[Info: 2021-03-12 05:25:59.643513074: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] CustomItems: optifine/cit/enchants/protection.properties
+[Info: 2021-03-12 05:25:59.643610816: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] CustomItems: optifine/cit/enchants/punch.properties
+[Info: 2021-03-12 05:25:59.643712559: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] CustomItems: optifine/cit/enchants/quick_charge.properties
+[Info: 2021-03-12 05:25:59.643811812: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] CustomItems: optifine/cit/enchants/respiration.properties
+[Info: 2021-03-12 05:25:59.643916684: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] CustomItems: optifine/cit/enchants/riptide.properties
+[Info: 2021-03-12 05:25:59.644028107: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] CustomItems: optifine/cit/enchants/sharpness.properties
+[Info: 2021-03-12 05:25:59.644136480: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] CustomItems: optifine/cit/enchants/silk_touch.properties
+[Info: 2021-03-12 05:25:59.644253144: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] CustomItems: optifine/cit/enchants/smite.properties
+[Info: 2021-03-12 05:25:59.644403308: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] CustomItems: optifine/cit/enchants/soul_speed.properties
+[Info: 2021-03-12 05:25:59.644536431: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] CustomItems: optifine/cit/enchants/sweeping.properties
+[Info: 2021-03-12 05:25:59.644633014: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] CustomItems: optifine/cit/enchants/thorns.properties
+[Info: 2021-03-12 05:25:59.644734117: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] CustomItems: optifine/cit/enchants/unbreaking.properties
+[Info: 2021-03-12 05:25:59.644837229: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] CustomItems: optifine/cit/enchants/vanishing_curse.properties
+[Info: 2021-03-12 05:26:00.191324083: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] Multitexture: false
+[Info: 2021-03-12 05:26:00.195406333: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] Multipass connected textures: false
+[Info: 2021-03-12 05:26:00.196552314: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/glass/frame/glass.properties
+[Info: 2021-03-12 05:26:00.197060438: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/glass/frame/glass_pane.properties
+[Info: 2021-03-12 05:26:00.197300994: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/hard_materials/brick/brick.properties
+[Info: 2021-03-12 05:26:00.197502780: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/hard_materials/brick/brick2.properties
+[Info: 2021-03-12 05:26:00.197660704: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/hard_materials/brick/brick3.properties
+[Info: 2021-03-12 05:26:00.197851369: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/hard_materials/sandstone/chiseled_sandstone/chiseled_sandstone.properties
+[Info: 2021-03-12 05:26:00.198041184: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/hard_materials/sandstone/cut_red_sandstone/cut_red_sandstone.properties
+[Info: 2021-03-12 05:26:00.198242720: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/hard_materials/sandstone/cut_sandstone/cut_sandstone.properties
+[Info: 2021-03-12 05:26:00.198443715: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/hard_materials/sandstone/red_sandstone/red_sandstone.properties
+[Info: 2021-03-12 05:26:00.198631910: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/hard_materials/sandstone/sandstone/sandstone.properties
+[Info: 2021-03-12 05:26:00.198820715: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/hard_materials/smooth_stone/smooth_stone.properties
+[Info: 2021-03-12 05:26:00.199044971: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/hard_materials/terracotta/black/black_terracotta.properties
+[Info: 2021-03-12 05:26:00.199233176: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/hard_materials/terracotta/blue/blue_terracotta.properties
+[Info: 2021-03-12 05:26:00.199421721: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/hard_materials/terracotta/brown/brown_terracotta.properties
+[Info: 2021-03-12 05:26:00.199611817: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/hard_materials/terracotta/cyan/cyan_terracotta.properties
+[Info: 2021-03-12 05:26:00.199797092: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/hard_materials/terracotta/gray/gray_terracotta.properties
+[Info: 2021-03-12 05:26:00.199979247: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/hard_materials/terracotta/green/green_terracotta.properties
+[Info: 2021-03-12 05:26:00.200159991: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/hard_materials/terracotta/light_blue/light_blue_terracotta.properties
+[Info: 2021-03-12 05:26:00.200345536: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/hard_materials/terracotta/light_gray/light_gray_terracotta.properties
+[Info: 2021-03-12 05:26:00.200522871: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/hard_materials/terracotta/lime/lime_terracotta.properties
+[Info: 2021-03-12 05:26:00.200708256: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/hard_materials/terracotta/magenta/magenta_terracotta.properties
+[Info: 2021-03-12 05:26:00.200894341: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/hard_materials/terracotta/normal/terracotta.properties
+[Info: 2021-03-12 05:26:00.201090616: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/hard_materials/terracotta/orange/orange_terracotta.properties
+[Info: 2021-03-12 05:26:00.201291072: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/hard_materials/terracotta/pink/pink_terracotta.properties
+[Info: 2021-03-12 05:26:00.201471937: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/hard_materials/terracotta/purple/purple_terracotta.properties
+[Info: 2021-03-12 05:26:00.201659532: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/hard_materials/terracotta/red/red_terracotta.properties
+[Info: 2021-03-12 05:26:00.201839866: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/hard_materials/terracotta/white/white_terracotta.properties
+[Info: 2021-03-12 05:26:00.202021001: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/hard_materials/terracotta/yellow/yellow_terracotta.properties
+[Info: 2021-03-12 05:26:00.202204646: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/minerals/diamond/diamond_block.properties
+[Info: 2021-03-12 05:26:00.203214803: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/minerals/emerald/emerald_block.properties
+[Info: 2021-03-12 05:26:00.204482267: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/minerals/gold/gold_block.properties
+[Info: 2021-03-12 05:26:00.204762245: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/minerals/iron/iron_block.properties
+[Info: 2021-03-12 05:26:00.205710350: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/minerals/lapis/lapis_block.properties
+[Info: 2021-03-12 05:26:00.205937196: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/minerals/quartz/side/quartz_block_sides.properties
+[Info: 2021-03-12 05:26:00.206159082: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/minerals/quartz/top/quartz_block_ends.properties
+[Info: 2021-03-12 05:26:00.206391499: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/minerals/redstone/anim/redstone_block.properties
+[Info: 2021-03-12 05:26:00.206644055: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/minerals/redstone/static/redstone_block.properties
+[Info: 2021-03-12 05:26:00.206891842: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/minerals/ruby/emerald_block.properties
+[Info: 2021-03-12 05:26:00.208058104: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/mushroom/brown/brown_mushroom_block.properties
+[Info: 2021-03-12 05:26:00.208293730: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/mushroom/inside/mushroom_block_inside.properties
+[Info: 2021-03-12 05:26:00.208528836: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/mushroom/red/red_mushroom_block.properties
+[Info: 2021-03-12 05:26:00.208757912: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/sugar_cane/sugar_cane.properties
+[Info: 2021-03-12 05:26:00.208959148: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/transitions/0_clay/clay_overlay.properties
+[Info: 2021-03-12 05:26:00.209852732: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/transitions/1_red_sand/red_sand_overlay.properties
+[Info: 2021-03-12 05:26:00.210402786: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/transitions/2_sand/clay_alt_overlay.properties
+[Info: 2021-03-12 05:26:00.211053044: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/transitions/2_sand/sand_overlay.properties
+[Info: 2021-03-12 05:26:00.211649680: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/transitions/3_gravel/gravel_overlay.properties
+[Info: 2021-03-12 05:26:00.212297917: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/transitions/4_grass/grass_overlay.properties
+[Info: 2021-03-12 05:26:00.212936774: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] ConnectedTextures: optifine/ctm/transitions/5_snow/snow_overlay.properties
+[Info: 2021-03-12 05:26:00.214023273: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] Multipass connected textures: true
+[Info: 2021-03-12 05:26:00.215481563: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] Multipass connected textures: true
+[Info: 2021-03-12 05:26:00.220656382: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] Multipass connected textures: true
+[Info: 2021-03-12 05:26:00.221993508: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] Multipass connected textures: true
+[Info: 2021-03-12 05:26:00.224105885: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] BetterGrass: Parsing configuration optifine/bettergrass.properties
+[Info: 2021-03-12 05:26:00.464829425: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] Sprite size: 256
+[Info: 2021-03-12 05:26:00.464914488: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] Mipmap levels: 8
+[Info: 2021-03-12 05:26:00.587156084: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] Scaled too small texture: minecraft:entity/conduit/wind, 64 -> 256
+[Info: 2021-03-12 05:26:00.587498573: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] Scaled too small texture: minecraft:entity/conduit/wind_vertical, 64 -> 256
+[Info: 2021-03-12 05:26:00.587622716: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] Scaled too small texture: minecraft:optifine/ctm/default/empty, 16 -> 256
+[Info: 2021-03-12 05:26:00.587777700: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] Scaled too small texture: minecraft:block/conduit, 16 -> 256
+[Info: 2021-03-12 05:26:00.587894603: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] Scaled too small texture: minecraft:block/water_overlay, 32 -> 256
+[Info: 2021-03-12 05:26:01.914538575: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] Multitexture: false
+[Info: 2021-03-12 05:26:01.916018385: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] Sprite size: 1024
+[Info: 2021-03-12 05:26:01.916056276: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] Mipmap levels: 10
+[Info: 2021-03-12 05:26:01.977751844: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] Multitexture: false
+[Info: 2021-03-12 05:26:01.981836014: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] Sprite size: 1024
+[Info: 2021-03-12 05:26:01.981893475: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] Mipmap levels: 10
+[Info: 2021-03-12 05:26:02.252179325: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] Multitexture: false
+[Info: 2021-03-12 05:26:02.255004321: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] Sprite size: 1024
+[Info: 2021-03-12 05:26:02.255049593: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] Mipmap levels: 10
+[Info: 2021-03-12 05:26:02.528973100: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] Multitexture: false
+[Info: 2021-03-12 05:26:02.530189792: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] Sprite size: 1024
+[Info: 2021-03-12 05:26:02.530216743: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] Mipmap levels: 10
+[Info: 2021-03-12 05:26:02.614503847: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] Multitexture: false
+[Info: 2021-03-12 05:26:02.616128121: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] Sprite size: 1024
+[Info: 2021-03-12 05:26:02.616200823: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] Mipmap levels: 10
+[Info: 2021-03-12 05:26:02.783362242: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] Multitexture: false
+[Info: 2021-03-12 05:26:02.786095936: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] Sprite size: 1024
+[Info: 2021-03-12 05:26:02.786215989: GameCallbacks.cpp(162)] Game/net.optifine.Config (Worker-Main-13) Info [OptiFine] Mipmap levels: 10
+[Info: 2021-03-12 05:26:03.111331330: GameCallbacks.cpp(162)] Game/ddv (main) Info OpenAL initialized.
+[Info: 2021-03-12 05:26:03.112424890: GameCallbacks.cpp(162)] Game/enr (main) Info Sound engine started
+[Info: 2021-03-12 05:26:03.321356819: GameCallbacks.cpp(162)] Game/ekb (main) Info Created: 16384x8192x4 minecraft:textures/atlas/blocks.png-atlas
+[Info: 2021-03-12 05:26:03.321548364: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Allocate texture map normal: 16384x8192, mipmaps: 4
+[Info: 2021-03-12 05:26:03.321634907: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Allocate texture map specular: 16384x8192, mipmaps: 4
+[Info: 2021-03-12 05:26:03.552012392: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] Animated sprites: 49
+[Info: 2021-03-12 05:26:03.973233452: GameCallbacks.cpp(162)] Game/ekb (main) Info Created: 4096x2048x4 minecraft:textures/atlas/signs.png-atlas
+[Info: 2021-03-12 05:26:03.973408066: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Allocate texture map normal: 4096x2048, mipmaps: 4
+[Info: 2021-03-12 05:26:03.973479718: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Allocate texture map specular: 4096x2048, mipmaps: 4
+[Info: 2021-03-12 05:26:03.983764884: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] Animated sprites: 0
+[Info: 2021-03-12 05:26:04.003835173: GameCallbacks.cpp(162)] Game/ekb (main) Info Created: 8192x8192x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[Info: 2021-03-12 05:26:04.004005648: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Allocate texture map normal: 8192x8192, mipmaps: 4
+[Info: 2021-03-12 05:26:04.004075110: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Allocate texture map specular: 8192x8192, mipmaps: 4
+[Info: 2021-03-12 05:26:04.078818246: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] Animated sprites: 0
+[Info: 2021-03-12 05:26:04.226660374: GameCallbacks.cpp(162)] Game/ekb (main) Info Created: 8192x8192x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[Info: 2021-03-12 05:26:04.226819988: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Allocate texture map normal: 8192x8192, mipmaps: 4
+[Info: 2021-03-12 05:26:04.226895600: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Allocate texture map specular: 8192x8192, mipmaps: 4
+[Info: 2021-03-12 05:26:04.296533819: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] Animated sprites: 0
+[Info: 2021-03-12 05:26:04.447248894: GameCallbacks.cpp(162)] Game/ekb (main) Info Created: 4096x4096x4 minecraft:textures/atlas/chest.png-atlas
+[Info: 2021-03-12 05:26:04.447419379: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Allocate texture map normal: 4096x4096, mipmaps: 4
+[Info: 2021-03-12 05:26:04.447496781: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Allocate texture map specular: 4096x4096, mipmaps: 4
+[Info: 2021-03-12 05:26:04.465743700: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] Animated sprites: 0
+[Info: 2021-03-12 05:26:04.501255823: GameCallbacks.cpp(162)] Game/ekb (main) Info Created: 8192x4096x4 minecraft:textures/atlas/beds.png-atlas
+[Info: 2021-03-12 05:26:04.501433408: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Allocate texture map normal: 8192x4096, mipmaps: 4
+[Info: 2021-03-12 05:26:04.501505480: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Allocate texture map specular: 8192x4096, mipmaps: 4
+[Info: 2021-03-12 05:26:04.532371628: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] Animated sprites: 0
+[Info: 2021-03-12 05:26:04.600020634: GameCallbacks.cpp(162)] Game/ekb (main) Info Created: 8192x4096x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[Info: 2021-03-12 05:26:04.600172038: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Allocate texture map normal: 8192x4096, mipmaps: 4
+[Info: 2021-03-12 05:26:04.600235520: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Allocate texture map specular: 8192x4096, mipmaps: 4
+[Info: 2021-03-12 05:26:04.629289140: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] Animated sprites: 0
+[Info: 2021-03-12 05:26:05.866941497: GameCallbacks.cpp(162)] Game/ekb (main) Info Created: 4096x2048x0 minecraft:textures/atlas/particles.png-atlas
+[Info: 2021-03-12 05:26:05.867077101: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Allocate texture map normal: 4096x2048, mipmaps: 0
+[Info: 2021-03-12 05:26:05.867121162: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Allocate texture map specular: 4096x2048, mipmaps: 0
+[Info: 2021-03-12 05:26:05.875917728: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] Animated sprites: 0
+[Info: 2021-03-12 05:26:05.896226323: GameCallbacks.cpp(162)] Game/ekb (main) Info Created: 4096x4096x0 minecraft:textures/atlas/paintings.png-atlas
+[Info: 2021-03-12 05:26:05.896357937: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Allocate texture map normal: 4096x4096, mipmaps: 0
+[Info: 2021-03-12 05:26:05.896411958: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Allocate texture map specular: 4096x4096, mipmaps: 0
+[Info: 2021-03-12 05:26:05.904741992: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] Animated sprites: 0
+[Info: 2021-03-12 05:26:05.922305362: GameCallbacks.cpp(162)] Game/ekb (main) Info Created: 512x512x0 minecraft:textures/atlas/mob_effects.png-atlas
+[Info: 2021-03-12 05:26:05.922433206: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Allocate texture map normal: 512x512, mipmaps: 0
+[Info: 2021-03-12 05:26:05.922490078: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Allocate texture map specular: 512x512, mipmaps: 0
+[Info: 2021-03-12 05:26:05.922746674: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] Animated sprites: 0
+[Info: 2021-03-12 05:26:05.923946737: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] *** Reloading custom textures ***
+[Info: 2021-03-12 05:26:05.924489151: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Warn [OptiFine] Sprite not found: minecraft:block/campfire_fire
+[Info: 2021-03-12 05:26:05.924534043: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Warn [OptiFine] Sprite not found: minecraft:block/soul_campfire_fire
+[Info: 2021-03-12 05:26:05.933081492: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] CustomColors: Colormap optifine/colormap/swampgrass.png
+[Info: 2021-03-12 05:26:05.952788671: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] CustomColors: Colormap optifine/colormap/swampfoliage.png
+[Info: 2021-03-12 05:26:05.962025239: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] CustomColors: Colormap optifine/colormap/sky0.png
+[Info: 2021-03-12 05:26:05.966418636: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] CustomColors: Colormap optifine/colormap/fog0.png
+[Info: 2021-03-12 05:26:05.973839485: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] CustomColors: Colormap optifine/colormap/underwater.png
+[Info: 2021-03-12 05:26:05.981809029: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] CustomColors: Loading optifine/color.properties
+[Info: 2021-03-12 05:26:05.981915962: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] CustomColors: drop.water = 93b9f1
+[Info: 2021-03-12 05:26:05.981966803: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] CustomColors: fog.end = 150018
+[Info: 2021-03-12 05:26:05.982013695: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] CustomColors: sky.end = 000000
+[Info: 2021-03-12 05:26:05.982143108: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] CustomColors: Block palette: palette.block.~/colormap/stone.png = andesite polished_andesite andesite_wall andesite_stairs polished_andesite_stairs andesite_slab polished_andesite_slab diorite polished_diorite diorite_wall diorite_stairs polished_diorite_stairs diorite_slab polished_diorite_slab granite polished_granite granite_wall granite_stairs polished_granite_stairs granite_slab polished_granite_slab stone stone_stairs stone_slab stone_button stone_pressure_plate infested_stone smooth_stone smooth_stone_slab cobblestone cobblestone_wall cobblestone_stairs cobblestone_slab infested_cobblestone mossy_cobblestone mossy_cobblestone_wall mossy_cobblestone_stairs mossy_cobblestone_slab stone_bricks stone_brick_wall stone_brick_stairs stone_brick_slab infested_stone_bricks cracked_stone_bricks infested_cracked_stone_bricks chiseled_stone_bricks infested_chiseled_stone_bricks mossy_stone_bricks mossy_stone_brick_wall mossy_stone_brick_stairs mossy_stone_brick_slab infested_mossy_stone_bricks sandstone sandstone_wall sandstone_slab sandstone_stairs smooth_sandstone smooth_sandstone_slab smooth_sandstone_stairs chiseled_sandstone cut_sandstone cut_sandstone_slab red_sandstone red_sandstone_wall red_sandstone_slab red_sandstone_stairs smooth_red_sandstone smooth_red_sandstone_slab smooth_red_sandstone_stairs chiseled_red_sandstone cut_red_sandstone cut_red_sandstone_slab gravel clay coal_ore diamond_ore emerald_ore gold_ore iron_ore lapis_ore redstone_ore dispenser dropper furnace observer piston sticky_piston comparator repeater lever
+[Info: 2021-03-12 05:26:05.982229041: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] CustomColors: Colormap optifine/colormap/stone.png
+[Info: 2021-03-12 05:26:05.985500478: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] CustomColors: Block palette: palette.block.~/colormap/sand.png = sand red_sand
+[Info: 2021-03-12 05:26:05.985575460: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] CustomColors: Colormap optifine/colormap/sand.png
+[Info: 2021-03-12 05:26:05.992291100: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] CustomSky properties: optifine/sky/world0/sky1.properties
+[Info: 2021-03-12 05:26:06.004901988: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] CustomSky properties: optifine/sky/world0/sky2.properties
+[Info: 2021-03-12 05:26:06.434382697: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] RandomEntities: textures/entity/dolphin.png, properties: optifine/mob/dolphin.properties
+[Info: 2021-03-12 05:26:06.436259927: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] RandomEntities: textures/entity/steve.png, variants: 10
+[Info: 2021-03-12 05:26:06.436975656: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] RandomEntities: textures/entity/iron_golem/iron_golem.png, variants: 2
+[Info: 2021-03-12 05:26:06.437670295: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] RandomEntities: textures/entity/enderman/enderman_eyes.png, variants: 3
+[Info: 2021-03-12 05:26:06.438362333: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] RandomEntities: textures/entity/ghast/ghast_shooting.png, variants: 2
+[Info: 2021-03-12 05:26:06.438987710: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] RandomEntities: textures/entity/ghast/ghast.png, variants: 2
+[Info: 2021-03-12 05:26:06.439613197: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] RandomEntities: textures/entity/slime/magmacube.png, variants: 2
+[Info: 2021-03-12 05:26:06.440239264: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] RandomEntities: textures/entity/pig/pig.png, variants: 3
+[Info: 2021-03-12 05:26:06.440862161: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] RandomEntities: textures/entity/silverfish.png, variants: 3
+[Info: 2021-03-12 05:26:06.441529889: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] RandomEntities: textures/entity/squid.png, variants: 6
+[Info: 2021-03-12 05:26:06.442152145: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] RandomEntities: textures/entity/cow/cow.png, variants: 3
+[Info: 2021-03-12 05:26:06.442502415: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] RandomEntities: textures/entity/zombie/zombie.png, properties: optifine/mob/zombie/zombie.properties
+[Info: 2021-03-12 05:26:06.444189330: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] RandomEntities: textures/entity/zombie/drowned.png, properties: optifine/mob/zombie/drowned.properties
+[Info: 2021-03-12 05:26:06.444949560: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] RandomEntities: textures/entity/zombie/husk.png, variants: 2
+[Info: 2021-03-12 05:26:06.445354341: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] RandomEntities: textures/entity/cat/cat_collar.png, properties: optifine/mob/cat/cat_collar.properties
+[Info: 2021-03-12 05:26:06.446174523: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] RandomEntities: textures/entity/illager/evoker.png, variants: 2
+[Info: 2021-03-12 05:26:06.446546673: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] RandomEntities: textures/entity/creeper/creeper.png, properties: optifine/mob/creeper/creeper.properties
+[Info: 2021-03-12 05:26:06.447943790: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] RandomEntities: textures/entity/skeleton/skeleton.png, variants: 4
+[Info: 2021-03-12 05:26:06.448291349: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] RandomEntities: textures/entity/wolf/wolf.png, properties: optifine/mob/wolf/wolf.properties
+[Info: 2021-03-12 05:26:06.448806653: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] RandomEntities: textures/entity/wolf/wolf_angry.png, properties: optifine/mob/wolf/wolf.properties
+[Info: 2021-03-12 05:26:06.449333267: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] RandomEntities: textures/entity/wolf/wolf_tame.png, properties: optifine/mob/wolf/wolf.properties
+[Info: 2021-03-12 05:26:06.449844141: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] RandomEntities: textures/entity/wolf/wolf_collar.png, properties: optifine/mob/wolf/wolf_collar.properties
+[Info: 2021-03-12 05:26:06.450542850: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] RandomEntities: textures/entity/spider/spider.png, variants: 3
+[Info: 2021-03-12 05:26:06.520644260: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] CustomEntityModel: optifine/cem/cave_spider.jem
+[Info: 2021-03-12 05:26:06.524229946: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] CustomEntityModel: optifine/cem/chicken.jem
+[Info: 2021-03-12 05:26:06.524665978: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] CustomEntityModel: optifine/cem/evocation_illager.jem
+[Info: 2021-03-12 05:26:06.525000297: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] CustomEntityModel: optifine/cem/iron_golem.jem
+[Info: 2021-03-12 05:26:06.525452279: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] CustomEntityModel: optifine/cem/shulker.jem
+[Info: 2021-03-12 05:26:06.526220240: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] CustomEntityModel: optifine/cem/skeleton.jem
+[Info: 2021-03-12 05:26:06.526907748: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] CustomEntityModel: optifine/cem/spider.jem
+[Info: 2021-03-12 05:26:06.527794532: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] CustomEntityModel: optifine/cem/vex.jem
+[Info: 2021-03-12 05:26:06.528006677: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] CustomEntityModel: optifine/cem/vindication_illager.jem
+[Info: 2021-03-12 05:26:06.528248794: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] CustomEntityModel: optifine/cem/zombie.jem
+[Info: 2021-03-12 05:26:06.528494560: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] CustomEntityModel: optifine/cem/shulker_box.jem
+[Info: 2021-03-12 05:26:06.530707780: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] Texture pack clouds: fast
+[Info: 2021-03-12 05:26:06.536906706: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] CustomGuis: optifine/gui/container/ender_chest.properties
+[Info: 2021-03-12 05:26:06.538357405: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] CustomGuis: optifine/gui/container/shulker_box/shulker_box_black.properties
+[Info: 2021-03-12 05:26:06.538463278: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] CustomGuis: optifine/gui/container/shulker_box/shulker_box_blue.properties
+[Info: 2021-03-12 05:26:06.538538180: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] CustomGuis: optifine/gui/container/shulker_box/shulker_box_brown.properties
+[Info: 2021-03-12 05:26:06.538611762: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] CustomGuis: optifine/gui/container/shulker_box/shulker_box_cyan.properties
+[Info: 2021-03-12 05:26:06.538685774: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] CustomGuis: optifine/gui/container/shulker_box/shulker_box_gray.properties
+[Info: 2021-03-12 05:26:06.538760236: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] CustomGuis: optifine/gui/container/shulker_box/shulker_box_green.properties
+[Info: 2021-03-12 05:26:06.538830338: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] CustomGuis: optifine/gui/container/shulker_box/shulker_box_light_blue.properties
+[Info: 2021-03-12 05:26:06.538897789: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] CustomGuis: optifine/gui/container/shulker_box/shulker_box_light_gray.properties
+[Info: 2021-03-12 05:26:06.538969401: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] CustomGuis: optifine/gui/container/shulker_box/shulker_box_lime.properties
+[Info: 2021-03-12 05:26:06.539040793: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] CustomGuis: optifine/gui/container/shulker_box/shulker_box_magenta.properties
+[Info: 2021-03-12 05:26:06.539116395: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] CustomGuis: optifine/gui/container/shulker_box/shulker_box_orange.properties
+[Info: 2021-03-12 05:26:06.539191607: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] CustomGuis: optifine/gui/container/shulker_box/shulker_box_pink.properties
+[Info: 2021-03-12 05:26:06.539267959: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] CustomGuis: optifine/gui/container/shulker_box/shulker_box_purple.properties
+[Info: 2021-03-12 05:26:06.539340641: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] CustomGuis: optifine/gui/container/shulker_box/shulker_box_red.properties
+[Info: 2021-03-12 05:26:06.539415503: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] CustomGuis: optifine/gui/container/shulker_box/shulker_box_white.properties
+[Info: 2021-03-12 05:26:06.539484015: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] CustomGuis: optifine/gui/container/shulker_box/shulker_box_yellow.properties
+[Info: 2021-03-12 05:26:06.578199654: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] Disable Forge light pipeline
+[Info: 2021-03-12 05:26:16.341004485: GameCallbacks.cpp(162)] Game/dfw (MCO Compatability Checker #1) Info Realms is available for this user
+[Info: 2021-03-12 05:27:24.474325012: GameCallbacks.cpp(162)] Game/dnt (main) Info Connecting to membery.servegame.com, 25565
+[Info: 2021-03-12 05:27:28.971841221: GameCallbacks.cpp(162)] Game/com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService (main) Info Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[Info: 2021-03-12 05:27:29.046982411: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Shadow map distance: 110.0
+[Info: 2021-03-12 05:27:29.047080104: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Shadow map resolution: 3072
+[Info: 2021-03-12 05:27:29.051661845: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: shadow
+[Info: 2021-03-12 05:27:29.406188498: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: gbuffers_basic
+[Info: 2021-03-12 05:27:29.418278676: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Shadow map distance: 110.0
+[Info: 2021-03-12 05:27:29.418343008: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Shadow map resolution: 3072
+[Info: 2021-03-12 05:27:29.420698900: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: gbuffers_textured
+[Info: 2021-03-12 05:27:29.441690124: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: gbuffers_skybasic
+[Info: 2021-03-12 05:27:29.453159657: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: gbuffers_skytextured
+[Info: 2021-03-12 05:27:29.464709931: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: gbuffers_clouds
+[Info: 2021-03-12 05:27:29.477719744: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] gcolor format: RGBA16
+[Info: 2021-03-12 05:27:29.477800356: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] gnormal format: RGB10_A2
+[Info: 2021-03-12 05:27:29.477856827: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] composite format: R11F_G11F_B10F
+[Info: 2021-03-12 05:27:29.477900868: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] gaux1 format: RGBA16
+[Info: 2021-03-12 05:27:29.477945079: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] gaux2 format: R11F_G11F_B10F
+[Info: 2021-03-12 05:27:29.477988731: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] gaux3 format: R11F_G11F_B10F
+[Info: 2021-03-12 05:27:29.478031542: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] gaux4 format: R11F_G11F_B10F
+[Info: 2021-03-12 05:27:29.479658814: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: gbuffers_terrain
+[Info: 2021-03-12 05:27:29.533220406: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Shadow map distance: 110.0
+[Info: 2021-03-12 05:27:29.533293548: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Shadow map resolution: 3072
+[Info: 2021-03-12 05:27:29.534941251: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: gbuffers_block
+[Info: 2021-03-12 05:27:29.566726909: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: gbuffers_entities
+[Info: 2021-03-12 05:27:29.588349519: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: gbuffers_armor_glint
+[Info: 2021-03-12 05:27:29.600428677: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: gbuffers_spidereyes
+[Info: 2021-03-12 05:27:29.622087638: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: gbuffers_weather
+[Info: 2021-03-12 05:27:29.795815467: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Shadow map distance: 110.0
+[Info: 2021-03-12 05:27:29.795846038: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Shadow map resolution: 3072
+[Info: 2021-03-12 05:27:29.797650846: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: gbuffers_water
+[Info: 2021-03-12 05:27:29.819793739: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Shadow map distance: 110.0
+[Info: 2021-03-12 05:27:29.819843180: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Shadow map resolution: 3072
+[Info: 2021-03-12 05:27:29.819981544: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] shadowHardwareFiltering0
+[Info: 2021-03-12 05:27:29.820015785: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] shadowHardwareFiltering1
+[Info: 2021-03-12 05:27:29.820047576: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Sun path rotation: -40.0
+[Info: 2021-03-12 05:27:29.823334653: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: composite
+[Info: 2021-03-12 05:27:29.836049988: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] gaux1 mipmap enabled
+[Info: 2021-03-12 05:27:29.836230103: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Noise texture enabled
+[Info: 2021-03-12 05:27:29.836260643: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Noise texture resolution: 128
+[Info: 2021-03-12 05:27:29.838069241: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Wetness halflife: 200.0
+[Info: 2021-03-12 05:27:29.838136443: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Dryness halflife: 75.0
+[Info: 2021-03-12 05:27:29.847421478: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: composite1
+[Info: 2021-03-12 05:27:29.858681664: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] gaux4 clear disabled
+[Info: 2021-03-12 05:27:29.859962308: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: composite2
+[Info: 2021-03-12 05:27:29.870824114: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] colortex7 mipmap enabled
+[Info: 2021-03-12 05:27:29.871221405: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: composite3
+[Info: 2021-03-12 05:27:29.883740144: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: composite4
+[Info: 2021-03-12 05:27:30.008148984: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: final
+[Info: 2021-03-12 05:27:30.008532044: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] usedColorBuffers: 8
+[Info: 2021-03-12 05:27:30.008558195: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] usedDepthBuffers: 3
+[Info: 2021-03-12 05:27:30.008579575: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] usedShadowColorBuffers: 1
+[Info: 2021-03-12 05:27:30.008600206: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] usedShadowDepthBuffers: 2
+[Info: 2021-03-12 05:27:30.008620617: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] usedColorAttachs: 8
+[Info: 2021-03-12 05:27:30.008642117: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] usedDrawBuffers: 7
+[Info: 2021-03-12 05:27:30.008669158: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] bindImageTextures: false
+[Info: 2021-03-12 05:27:30.012680953: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Framebuffer created: dfb
+[Info: 2021-03-12 05:27:30.013440223: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Framebuffer created: sfb
+[Info: 2021-03-12 05:27:30.017183902: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] [Shaders] Parsing block mappings: /shaders/block.properties
+[Info: 2021-03-12 05:27:30.017883640: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] [Shaders] Parsing entity mappings: /shaders/entity.properties
+[Info: 2021-03-12 05:27:30.017941202: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Reset model renderers
+[Info: 2021-03-12 05:27:30.017967163: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Reset world renderers
+[Info: 2021-03-12 05:27:30.881303964: GameCallbacks.cpp(162)] Game/z (main) Info Loaded 661 advancements
+[Info: 2021-03-12 05:27:40.138757896: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Save shaders configuration.
+[Info: 2021-03-12 05:27:46.392735253: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Uninit
+[Info: 2021-03-12 05:27:46.415524094: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Shadow map distance: 110.0
+[Info: 2021-03-12 05:27:46.415588356: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Shadow map resolution: 3072
+[Info: 2021-03-12 05:27:46.429462770: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: shadow
+[Info: 2021-03-12 05:27:46.783028726: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: gbuffers_basic
+[Info: 2021-03-12 05:27:46.797153858: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Shadow map distance: 110.0
+[Info: 2021-03-12 05:27:46.797183248: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Shadow map resolution: 3072
+[Info: 2021-03-12 05:27:46.820235805: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: gbuffers_textured
+[Info: 2021-03-12 05:27:46.841014132: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: gbuffers_skybasic
+[Info: 2021-03-12 05:27:46.854751494: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: gbuffers_skytextured
+[Info: 2021-03-12 05:27:46.869224554: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: gbuffers_clouds
+[Info: 2021-03-12 05:27:46.885648736: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] gcolor format: RGBA16
+[Info: 2021-03-12 05:27:46.885708268: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] gnormal format: RGB10_A2
+[Info: 2021-03-12 05:27:46.885739809: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] composite format: R11F_G11F_B10F
+[Info: 2021-03-12 05:27:46.885769530: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] gaux1 format: RGBA16
+[Info: 2021-03-12 05:27:46.885799910: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] gaux2 format: R11F_G11F_B10F
+[Info: 2021-03-12 05:27:46.885831621: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] gaux3 format: R11F_G11F_B10F
+[Info: 2021-03-12 05:27:46.885862382: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] gaux4 format: R11F_G11F_B10F
+[Info: 2021-03-12 05:27:46.910965733: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: gbuffers_terrain
+[Info: 2021-03-12 05:27:46.963377372: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Shadow map distance: 110.0
+[Info: 2021-03-12 05:27:46.963435463: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Shadow map resolution: 3072
+[Info: 2021-03-12 05:27:46.978569931: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: gbuffers_block
+[Info: 2021-03-12 05:27:47.016203632: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: gbuffers_entities
+[Info: 2021-03-12 05:27:47.042743820: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: gbuffers_armor_glint
+[Info: 2021-03-12 05:27:47.061392031: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: gbuffers_spidereyes
+[Info: 2021-03-12 05:27:47.087210401: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: gbuffers_weather
+[Info: 2021-03-12 05:27:47.262952246: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Shadow map distance: 110.0
+[Info: 2021-03-12 05:27:47.262977916: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Shadow map resolution: 3072
+[Info: 2021-03-12 05:27:47.306809659: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: gbuffers_water
+[Info: 2021-03-12 05:27:47.330445781: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Shadow map distance: 110.0
+[Info: 2021-03-12 05:27:47.330474721: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Shadow map resolution: 3072
+[Info: 2021-03-12 05:27:47.330669006: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] shadowHardwareFiltering0
+[Info: 2021-03-12 05:27:47.330751329: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] shadowHardwareFiltering1
+[Info: 2021-03-12 05:27:47.330880842: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Sun path rotation: -40.0
+[Info: 2021-03-12 05:27:47.408976817: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: composite
+[Info: 2021-03-12 05:27:47.423042497: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] gaux1 mipmap enabled
+[Info: 2021-03-12 05:27:47.423308394: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Noise texture enabled
+[Info: 2021-03-12 05:27:47.423419136: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Noise texture resolution: 128
+[Info: 2021-03-12 05:27:47.424899605: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Wetness halflife: 200.0
+[Info: 2021-03-12 05:27:47.424990288: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Dryness halflife: 75.0
+[Info: 2021-03-12 05:27:47.605707104: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: composite1
+[Info: 2021-03-12 05:27:47.617189035: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] gaux4 clear disabled
+[Info: 2021-03-12 05:27:47.628788141: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: composite2
+[Info: 2021-03-12 05:27:47.639955705: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] colortex7 mipmap enabled
+[Info: 2021-03-12 05:27:47.643373935: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: composite3
+[Info: 2021-03-12 05:27:47.662864739: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: composite4
+[Info: 2021-03-12 05:27:47.796581406: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: final
+[Info: 2021-03-12 05:27:47.796611737: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] usedColorBuffers: 8
+[Info: 2021-03-12 05:27:47.796635718: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] usedDepthBuffers: 3
+[Info: 2021-03-12 05:27:47.796656868: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] usedShadowColorBuffers: 1
+[Info: 2021-03-12 05:27:47.796677949: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] usedShadowDepthBuffers: 2
+[Info: 2021-03-12 05:27:47.796699460: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] usedColorAttachs: 8
+[Info: 2021-03-12 05:27:47.796720450: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] usedDrawBuffers: 7
+[Info: 2021-03-12 05:27:47.796742701: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] bindImageTextures: false
+[Info: 2021-03-12 05:27:47.798217340: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Framebuffer created: dfb
+[Info: 2021-03-12 05:27:47.798660051: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Framebuffer created: sfb
+[Info: 2021-03-12 05:27:47.800114630: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] [Shaders] Parsing block mappings: /shaders/block.properties
+[Info: 2021-03-12 05:27:47.800749247: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] [Shaders] Parsing entity mappings: /shaders/entity.properties
+[Info: 2021-03-12 05:27:47.800784597: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Reset model renderers
+[Info: 2021-03-12 05:27:47.800806628: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Reset world renderers
+[Info: 2021-03-12 05:27:52.368687658: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Uninit
+[Info: 2021-03-12 05:27:52.391182090: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Shadow map distance: 110.0
+[Info: 2021-03-12 05:27:52.391256392: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Shadow map resolution: 3072
+[Info: 2021-03-12 05:27:52.395726110: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: shadow
+[Info: 2021-03-12 05:27:52.748767126: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: gbuffers_basic
+[Info: 2021-03-12 05:27:52.762093776: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Shadow map distance: 110.0
+[Info: 2021-03-12 05:27:52.762128657: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Shadow map resolution: 3072
+[Info: 2021-03-12 05:27:52.784665690: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: gbuffers_textured
+[Info: 2021-03-12 05:27:52.805194369: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: gbuffers_skybasic
+[Info: 2021-03-12 05:27:52.818603862: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: gbuffers_skytextured
+[Info: 2021-03-12 05:27:52.832901938: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: gbuffers_clouds
+[Info: 2021-03-12 05:27:52.847552143: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] gcolor format: RGBA16
+[Info: 2021-03-12 05:27:52.847587414: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] gnormal format: RGB10_A2
+[Info: 2021-03-12 05:27:52.847618885: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] composite format: R11F_G11F_B10F
+[Info: 2021-03-12 05:27:52.847645766: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] gaux1 format: RGBA16
+[Info: 2021-03-12 05:27:52.847677847: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] gaux2 format: R11F_G11F_B10F
+[Info: 2021-03-12 05:27:52.847708597: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] gaux3 format: R11F_G11F_B10F
+[Info: 2021-03-12 05:27:52.847755519: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] gaux4 format: R11F_G11F_B10F
+[Info: 2021-03-12 05:27:52.870825715: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: gbuffers_terrain
+[Info: 2021-03-12 05:27:52.923210954: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Shadow map distance: 110.0
+[Info: 2021-03-12 05:27:52.923233624: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Shadow map resolution: 3072
+[Info: 2021-03-12 05:27:52.938302481: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: gbuffers_block
+[Info: 2021-03-12 05:27:52.976227048: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: gbuffers_entities
+[Info: 2021-03-12 05:27:53.002764596: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: gbuffers_armor_glint
+[Info: 2021-03-12 05:27:53.021250922: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: gbuffers_spidereyes
+[Info: 2021-03-12 05:27:53.046810965: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: gbuffers_weather
+[Info: 2021-03-12 05:27:53.222289561: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Shadow map distance: 110.0
+[Info: 2021-03-12 05:27:53.222316812: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Shadow map resolution: 3072
+[Info: 2021-03-12 05:27:53.266544145: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: gbuffers_water
+[Info: 2021-03-12 05:27:53.290063564: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Shadow map distance: 110.0
+[Info: 2021-03-12 05:27:53.290090724: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Shadow map resolution: 3072
+[Info: 2021-03-12 05:27:53.290198967: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] shadowHardwareFiltering0
+[Info: 2021-03-12 05:27:53.290220548: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] shadowHardwareFiltering1
+[Info: 2021-03-12 05:27:53.290240188: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Sun path rotation: -40.0
+[Info: 2021-03-12 05:27:53.368083096: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: composite
+[Info: 2021-03-12 05:27:53.382125256: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] gaux1 mipmap enabled
+[Info: 2021-03-12 05:27:53.382307591: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Noise texture enabled
+[Info: 2021-03-12 05:27:53.382329281: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Noise texture resolution: 128
+[Info: 2021-03-12 05:27:53.383726538: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Wetness halflife: 200.0
+[Info: 2021-03-12 05:27:53.383748119: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Dryness halflife: 75.0
+[Info: 2021-03-12 05:27:53.565632312: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: composite1
+[Info: 2021-03-12 05:27:53.577020202: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] gaux4 clear disabled
+[Info: 2021-03-12 05:27:53.588712409: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: composite2
+[Info: 2021-03-12 05:27:53.599874873: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] colortex7 mipmap enabled
+[Info: 2021-03-12 05:27:53.603276362: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: composite3
+[Info: 2021-03-12 05:27:53.622894718: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: composite4
+[Info: 2021-03-12 05:27:53.756602865: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Program loaded: final
+[Info: 2021-03-12 05:27:53.756637136: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] usedColorBuffers: 8
+[Info: 2021-03-12 05:27:53.756648606: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] usedDepthBuffers: 3
+[Info: 2021-03-12 05:27:53.756659167: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] usedShadowColorBuffers: 1
+[Info: 2021-03-12 05:27:53.756678937: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] usedShadowDepthBuffers: 2
+[Info: 2021-03-12 05:27:53.756698128: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] usedColorAttachs: 8
+[Info: 2021-03-12 05:27:53.756714758: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] usedDrawBuffers: 7
+[Info: 2021-03-12 05:27:53.756734679: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] bindImageTextures: false
+[Info: 2021-03-12 05:27:53.758182697: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Framebuffer created: dfb
+[Info: 2021-03-12 05:27:53.758641609: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Framebuffer created: sfb
+[Info: 2021-03-12 05:27:53.759886762: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] [Shaders] Parsing block mappings: /shaders/block.properties
+[Info: 2021-03-12 05:27:53.760479777: GameCallbacks.cpp(162)] Game/net.optifine.Config (main) Info [OptiFine] [Shaders] Parsing entity mappings: /shaders/entity.properties
+[Info: 2021-03-12 05:27:53.760510938: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Reset model renderers
+[Info: 2021-03-12 05:27:53.760529699: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Reset world renderers
+[Info: 2021-03-12 05:27:56.036911034: GameCallbacks.cpp(162)] Game/net.optifine.shaders.SMCLog (main) Info [Shaders] Save shaders configuration.
+[Info: 2021-03-12 05:30:06.351375463: GameCallbacks.cpp(162)] Game/djz (main) Info Stopping!
+[Info: 2021-03-12 05:30:07.073817019: GameCallbacks.cpp(162)] Launcher/launcher (main) Info 
+
+[Info: 2021-03-12 05:30:07.073874741: GameCallbacks.cpp(162)] Launcher/monitor (Process Monitor) Info Process ended with exit code 0
+[Info: 2021-03-12 05:30:07.074677682: GameController.cpp(477)] Game closed with id 1
+[Info: 2021-03-12 05:30:07.186252995: GameCallbacks.cpp(38)] Destroying GameCallbacks!
+[Info: 2021-03-12 05:30:07.186266695: main_context.cpp(275)] Will shutdown!
+[Info: 2021-03-12 05:30:07.186277306: Process_Linux.cpp(28)] Exiting process /home/aiyah/.minecraft/runtime/jre-legacy/linux/jre-legacy/bin/java
+[Warning: 2021-03-12 05:30:07.186294416: BrowserSync.cpp(152)] Task is still running. Will try cancel it.
+[Info: 2021-03-12 05:30:07.186328197: XalApi.cpp(83)] Cancelling all in progress XAL work
+[Info: 2021-03-12 05:30:07.186339497: Xal.lib(0)] XAL: Cleanup starting
+[Info: 2021-03-12 05:30:07.226173151: Xal.lib(0)] XAL: @@@ Terminating with 1 queues
+[Info: 2021-03-12 05:30:07.226199761: Xal.lib(0)] XAL: Cleanup pending
+[Info: 2021-03-12 05:30:07.226210952: Xal.lib(0)] XAL: Cleanup done
+[Info: 2021-03-12 05:30:07.428223793: NetQueue.cpp(183)] NetQueue: Initiating shutdown.
+[Info: 2021-03-12 05:30:07.428252814: NetQueue.cpp(197)] NetQueue: Waiting for worker thread to finish...
+[Info: 2021-03-12 05:30:07.428379517: NetQueue.cpp(689)] NetQueue: Worker thread shutting down.
+[Info: 2021-03-12 05:30:07.428437329: NetQueue.cpp(200)] NetQueue: Done.
+[Info: 2021-03-12 05:30:07.428854270: ProductManager.cpp(128)] Stopping ~ProductManager..
+[Info: 2021-03-12 05:30:07.429375423: NetQueue.cpp(585)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2021-03-12 05:30:07.618565683: NetQueue.cpp(428)] NetQueue: Primary ip: 2606:2800:247:1cb7:261b:1f9c:2074:3c, Host: piston-meta.mojang.com
+[Info: 2021-03-12 05:30:07.618610734: NetQueue.cpp(504)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2021-03-12 05:30:07.618618464: NetQueue.cpp(532)] NetQueue: Action finalized: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2021-03-12 05:30:07.619072686: NetQueue.cpp(585)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/packages/a8cb20419c788aaa99fbdfca870cd2c26425245e/manifest.json
+[Info: 2021-03-12 05:30:07.648437265: NetQueue.cpp(428)] NetQueue: Primary ip: 2606:2800:247:1cb7:261b:1f9c:2074:3c, Host: piston-meta.mojang.com
+[Info: 2021-03-12 05:30:07.648484066: NetQueue.cpp(504)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/packages/a8cb20419c788aaa99fbdfca870cd2c26425245e/manifest.json
+[Info: 2021-03-12 05:30:07.648492096: NetQueue.cpp(532)] NetQueue: Action finalized: https://piston-meta.mojang.com/v1/packages/a8cb20419c788aaa99fbdfca870cd2c26425245e/manifest.json
+[Info: 2021-03-12 05:30:07.855327324: NetQueue.cpp(585)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2021-03-12 05:30:07.870974503: NetQueue.cpp(428)] NetQueue: Primary ip: 2606:2800:247:1cb7:261b:1f9c:2074:3c, Host: piston-meta.mojang.com
+[Info: 2021-03-12 05:30:07.871019955: NetQueue.cpp(504)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2021-03-12 05:30:07.871027035: NetQueue.cpp(532)] NetQueue: Action finalized: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2021-03-12 05:30:07.871430416: NetQueue.cpp(585)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/packages/a8cb20419c788aaa99fbdfca870cd2c26425245e/manifest.json
+[Info: 2021-03-12 05:30:07.890941726: NetQueue.cpp(428)] NetQueue: Primary ip: 2606:2800:247:1cb7:261b:1f9c:2074:3c, Host: piston-meta.mojang.com
+[Info: 2021-03-12 05:30:07.890985767: NetQueue.cpp(504)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/packages/a8cb20419c788aaa99fbdfca870cd2c26425245e/manifest.json
+[Info: 2021-03-12 05:30:07.891001268: NetQueue.cpp(532)] NetQueue: Action finalized: https://piston-meta.mojang.com/v1/packages/a8cb20419c788aaa99fbdfca870cd2c26425245e/manifest.json
+[Info: 2021-03-12 05:30:08.096311598: ProductManager.cpp(140)] ~ProductManager was stopped successfully
+[Info: 2021-03-12 05:30:08.096578265: NetQueue.cpp(183)] NetQueue: Initiating shutdown.
+[Info: 2021-03-12 05:30:08.096594025: NetQueue.cpp(197)] NetQueue: Waiting for worker thread to finish...
+[Info: 2021-03-12 05:30:08.096616946: NetQueue.cpp(689)] NetQueue: Worker thread shutting down.
+[Info: 2021-03-12 05:30:08.097284803: NetQueue.cpp(200)] NetQueue: Done.
+[Info: 2021-03-12 05:30:08.103173117: StartLibrary.cpp(89)] Launcher ended with 0
+[Info: 2021-03-12 05:30:08.103242979: NetQueue.cpp(183)] NetQueue: Initiating shutdown.
+[Info: 2021-03-12 05:30:08.103251879: NetQueue.cpp(188)] NetQueue: No thread currently running

@@ -1,0 +1,32 @@
+{
+  "accounts" : {
+    "7fa7526ef60846c8b6cb289d2541d29f" : {
+      "accessToken" : "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIzZTIzNDM0NzFiYTI3ZWVlOGM5MDcxNjIxOTlhMTM3YiIsInlnZ3QiOiJiMjQ5ZmNlMzY4ZTU0OGY3ODkyODA3NmY2ZjlmYjYzYSIsInNwciI6ImI4MWNjYWVhNWY3ODQxYmQ5NmQ1OWRhNWQ1ZTMyNTU0IiwiaXNzIjoiWWdnZHJhc2lsLUF1dGgiLCJleHAiOjE2MTU2OTk1NDYsImlhdCI6MTYxNTUyNjc0Nn0.e0yhAtKOBWaO5r2Me3ZcWsWwxgVX4T5FeRFLn2ux_9g",
+      "eligibleForMigration" : false,
+      "hasMultipleProfiles" : false,
+      "legacy" : false,
+      "localId" : "7fa7526ef60846c8b6cb289d2541d29f",
+      "minecraftProfile" : {
+        "id" : "b81ccaea5f7841bd96d59da5d5e32554",
+        "name" : "AiyahM"
+      },
+      "persistent" : true,
+      "remoteId" : "3e2343471ba27eee8c907162199a137b",
+      "type" : "Mojang",
+      "userProperites" : 
+      [
+        {
+          "name" : "preferredLanguage",
+          "value" : "en-us"
+        },
+        {
+          "name" : "registrationCountry",
+          "value" : "AU"
+        }
+      ],
+      "username" : "Aiyahmembery@outlook.com"
+    }
+  },
+  "activeAccountLocalId" : "7fa7526ef60846c8b6cb289d2541d29f",
+  "mojangClientToken" : "65da60b1bf21472ba68d12e4f3799475"
+}

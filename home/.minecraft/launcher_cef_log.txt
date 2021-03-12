@@ -1,0 +1,13 @@
+[0312/162546.465957:INFO:main_context.cpp(136)] CEF initialized successfully.
+[0312/162546.466004:INFO:main_context.cpp(138)] CEF version: 86.0.23+ga2c2edf+chromium-86.0.4240.193
+[0312/162547.190372:ERROR:nss_util.cc(283)] After loading Root Certs, loaded==false: NSS error code: -8018
+[0312/162552.916470:ERROR:gl_surface_egl.cc(767)] EGL Driver message (Critical) eglMakeCurrent: Failed to make the GLX context current
+[0312/162552.917160:ERROR:gl_surface_egl.cc(767)] EGL Driver message (Critical) eglMakeCurrent: Failed to make the GLX context current
+[0312/162552.917252:ERROR:raster_decoder.cc(1027)]   RasterDecoderImpl: Context lost during MakeCurrent.
+[0312/162552.918336:WARNING:xproto_util.cc(51)] X error received: serial 611, error_code 170 (GLXBadWindow), request_code 151, minor_code 5 (X_GLXMakeCurrent)
+[0312/162552.918532:WARNING:xproto_util.cc(51)] X error received: serial 612, error_code 162 (GLXBadContextTag), request_code 151, minor_code 5 (X_GLXMakeCurrent)
+[0312/162552.918565:ERROR:gles2_cmd_decoder_passthrough.cc(1487)]   GLES2DecoderPassthroughImpl: Context lost during MakeCurrent.
+[0312/162552.918612:ERROR:shared_image_stub.cc(452)] SharedImageStub: context already lost
+[0312/162553.027241:WARNING:gpu_process_host.cc(1262)] The GPU process has crashed 1 time(s)
+[0312/162553.081970:WARNING:gpu_process_host.cc(990)] Reinitialized the GPU process after a crash. The reported initialization time was 52 ms
+[0312/162556.802950:WARNING:xproto_util.cc(51)] X error received: serial 601, error_code 3 (BadWindow (invalid Window parameter)), request_code 4, minor_code 0 (X_DestroyWindow)

@@ -1,0 +1,7 @@
+{
+  "data" : {
+    "UiEvents" : "{\"hasSeenDialog\":{\"LAUNCHER_RELEASENOTE_61rnrT5t7g0hS7YlV6O9CD\":true},\"hidePlayerSafetyDisclaimer\":{\"1.16.5-OptiFine_HD_U_G7_OptiFine\":true}}",
+    "UiSettings" : "{\"dungeonsDLCFilter\":{\"Owned\":true,\"Bundle\":true,\"DLC\":true},\"javaConfigurationFilter\":{\"release\":true,\"historical\":false,\"snapshot\":false,\"sortBy\":\"last-played\",\"modded\":true},\"lastVisitedGame\":\"java\",\"animate\":{\"transitions\":false,\"playButton\":false}}"
+  },
+  "formatVersion" : 1
+}
