@@ -14,13 +14,6 @@ sudo apt autoremove
 sudo apt install gnome-software gnome-tweaks flatpack gnome-software-plugin-flatpak apt-transport-https dirmngr
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 
-#installing Visual Studio for debian
-sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 3FA7E0328081BFF6A14DA29AA6A19B38D3D831EF
-echo "deb https://download.mono-project.com/repo/debian vs-buster main"
-sudo tee /etc/apt/sources.list.d/mono-official-vs.list
-sudo apt update
-
-sudo apt install monodevelop
 
 #setting up home directory
 cp "home/.bash_aliases" "${HOME}"
