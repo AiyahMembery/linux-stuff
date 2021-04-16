@@ -2,17 +2,13 @@ printf "welcome aiyah this is a basic setup script for ubuntu\n"
 sudo apt update;
 sudo apt upgrade;
 
-#flatpack repo
-#sudo add-apt-repository ppa:alexlarsson/flatpak
-#sudo apt update
-
 #removeing gnome bloatware
-#sudo apt purge gnome-2048 aisleriot atomix gnome-chess five-or-more hitori iagno gnome-klotski lightsoff gnome-mahjongg gnome-mines gnome-nibbles quadrapassel four-in-a-row gnome-robots gnome-sudoku swell-foop tali gnome-taquin gnome-tetravex libre-office snapd
-#sudo apt autoremove
+sudo apt purge gnome-2048 aisleriot atomix gnome-chess five-or-more hitori iagno gnome-klotski lightsoff gnome-mahjongg gnome-mines gnome-nibbles quadrapassel four-in-a-row gnome-robots gnome-sudoku swell-foop tali gnome-taquin gnome-tetravex libre-office snapd
+sudo apt autoremove
 
 #installing basic packages for use with gnome as well as flatpack
 sudo apt install gnome-software gnome-tweaks  gnome-software-plugin-flatpak apt-transport-https dirmngr git
-#flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo flatpack
+flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo flatpack
 
 
 #setting up home directory
