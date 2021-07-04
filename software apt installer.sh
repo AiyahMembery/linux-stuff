@@ -1,6 +1,6 @@
 printf "welcome aiyah this is a basic setup script for ubuntu\n"
-sudo apt update;
-sudo apt upgrade;
+sudo apt update
+sudo apt upgrade
 
 #removeing gnome bloatware
 sudo apt purge -y gnome-2048 aisleriot atomix gnome-chess five-or-more hitori iagno gnome-klotski lightsoff gnome-mahjongg gnome-mines gnome-nibbles quadrapassel four-in-a-row gnome-robots gnome-sudoku swell-foop tali gnome-taquin gnome-tetravex snap-store
@@ -18,9 +18,9 @@ cp -a "home/.icons" "${HOME}"
 cp -a "home/.themes" "${HOME}"
 
 #installing propriatary software
-sudo dpkg -i "sft/google-chrome-stable_current_amd64.deb"
-sudo dpkg -i "sft/minecraft.deb"
-sudo dpkg -i "sft/code_1.54.1-1614898113_amd64.deb"
+cd sft
+sudo dpkg -i *.deb
+cd ..
 git clone https://github.com/vinceliuice/Layan-gtk-theme.git
 cd layan-gtk-theme
 sudo ./install.sh
